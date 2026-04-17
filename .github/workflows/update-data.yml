@@ -1,0 +1,45 @@
+name: Update Leaderboard Data
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Daily at 8 AM UTC (3 AM Central)
+  workflow_dispatch:       # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch events
+        run: cd scripts && python fetch_events.py
+
+      - name: Fetch matches
+        run: cd scripts && python fetch_matches.py
+
+      - name: Fetch usernames
+        run: cd scripts && python fetch_usernames.py
+
+      - name: Calculate ELO
+        run: cd scripts && python calculate_elo.py
+
+      - name: Generate site data
+        run: cd scripts && python generate_site.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/data/
+          git diff --staged --quiet || git commit -m "Update leaderboard $(date -u +%Y-%m-%d)"
+          git push

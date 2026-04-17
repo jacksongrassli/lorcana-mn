@@ -1,0 +1,4223 @@
+[
+  {
+    "event_id": 461177,
+    "name": "LCN Weekly Constructed",
+    "date": "2026-04-16",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 480234,
+    "name": "Lorcana Core Tournament",
+    "date": "2026-04-14",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 3
+  },
+  {
+    "event_id": 390797,
+    "name": "Sunday Afternoon Winterspell - Set Championship",
+    "date": "2026-04-12",
+    "store": "2 Bros & A Box",
+    "is_set_champ": true,
+    "matches": 23,
+    "players": 9
+  },
+  {
+    "event_id": 392174,
+    "name": "Sunday Afternoon Winterspell - Set Championship",
+    "date": "2026-04-12",
+    "store": "Dreamers Vault Games Champlin",
+    "is_set_champ": true,
+    "matches": 35,
+    "players": 15
+  },
+  {
+    "event_id": 405818,
+    "name": "Roch Coulee Winterspell Set Champs",
+    "date": "2026-04-12",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": true,
+    "matches": 27,
+    "players": 12
+  },
+  {
+    "event_id": 445603,
+    "name": "Saturday Morning Core Constructed 1130AM",
+    "date": "2026-04-11",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 438461,
+    "name": "Winterspell Set Championship w/Krakenhits",
+    "date": "2026-04-11",
+    "store": "Krakenhits",
+    "is_set_champ": true,
+    "matches": 35,
+    "players": 15
+  },
+  {
+    "event_id": 407793,
+    "name": "Saturday Afternoon Winterspell - Set Championship",
+    "date": "2026-04-11",
+    "store": "Sneak Attack's Games",
+    "is_set_champ": true,
+    "matches": 27,
+    "players": 12
+  },
+  {
+    "event_id": 388757,
+    "name": "Lorcana Winterspell Set Championship",
+    "date": "2026-04-11",
+    "store": "Atlantis Hobby",
+    "is_set_champ": true,
+    "matches": 62,
+    "players": 21
+  },
+  {
+    "event_id": 491155,
+    "name": "Lorcana Chaos Draft!",
+    "date": "2026-04-11",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 10,
+    "players": 4
+  },
+  {
+    "event_id": 477448,
+    "name": "Weekly Lorcana April 10th",
+    "date": "2026-04-10",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 492914,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2026-04-10",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 490219,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-04-10",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 461176,
+    "name": "LCN Weekly Constructed",
+    "date": "2026-04-09",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 489981,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-04-08",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 480232,
+    "name": "Lorcana Core Tournament",
+    "date": "2026-04-07",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 485265,
+    "name": "Solz Lorcana: Winterspell - Set Championship",
+    "date": "2026-04-05",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 413353,
+    "name": "Sunday Evening Winterspell - Set Championship",
+    "date": "2026-04-05",
+    "store": "Bunker Gaming",
+    "is_set_champ": true,
+    "matches": 31,
+    "players": 14
+  },
+  {
+    "event_id": 392134,
+    "name": "Saturday Morning Winterspell - Set Championship",
+    "date": "2026-04-04",
+    "store": "Dreamers Vault Games (St Louis Park)",
+    "is_set_champ": true,
+    "matches": 30,
+    "players": 14
+  },
+  {
+    "event_id": 445602,
+    "name": "Saturday Morning Core Constructed 1130AM",
+    "date": "2026-04-04",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 475493,
+    "name": "Saturday Afternoon Winterspell - Set Championship",
+    "date": "2026-04-04",
+    "store": "SLIVER KING GAMES",
+    "is_set_champ": true,
+    "matches": 61,
+    "players": 21
+  },
+  {
+    "event_id": 464286,
+    "name": "Friday Evening Weekly League Play",
+    "date": "2026-04-03",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 477437,
+    "name": "Weekly Lorcana April 3rd",
+    "date": "2026-04-03",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 483800,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2026-04-03",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 461175,
+    "name": "LCN Weekly Constructed",
+    "date": "2026-04-02",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 445315,
+    "name": "Lorcana Tuesday Night Multiplayer",
+    "date": "2026-04-01",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 5,
+    "players": 9
+  },
+  {
+    "event_id": 470146,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-04-01",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 480964,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-04-01",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 461445,
+    "name": "Disney Lorcana Draft",
+    "date": "2026-03-28",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 10,
+    "players": 4
+  },
+  {
+    "event_id": 292418,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-03-27",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 445313,
+    "name": "Lorcana Tuesday Night Multiplayer",
+    "date": "2026-03-25",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 8
+  },
+  {
+    "event_id": 430600,
+    "name": "Lorcana Core Tournament",
+    "date": "2026-03-24",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 460046,
+    "name": "Scrooge Chaos Sealed - Sunday",
+    "date": "2026-03-22",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 28,
+    "players": 14
+  },
+  {
+    "event_id": 463048,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2026-03-21",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 406949,
+    "name": "Weekly Lorcana March 20th",
+    "date": "2026-03-20",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 292415,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-03-20",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 24,
+    "players": 16
+  },
+  {
+    "event_id": 461592,
+    "name": "Lorcana",
+    "date": "2026-03-19",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 445309,
+    "name": "Lorcana Tuesday Night Multiplayer",
+    "date": "2026-03-18",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 8
+  },
+  {
+    "event_id": 459875,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-03-18",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 373663,
+    "name": "Winterspell \"Frosty $500\" Tournament (Core Constructed)",
+    "date": "2026-03-14",
+    "store": "Gamezenter",
+    "is_set_champ": false,
+    "matches": 102,
+    "players": 33
+  },
+  {
+    "event_id": 424621,
+    "name": "Disney Lorcana Draft",
+    "date": "2026-03-14",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 10,
+    "players": 4
+  },
+  {
+    "event_id": 406938,
+    "name": "Weekly Lorcana March 13th Sealed",
+    "date": "2026-03-13",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 22,
+    "players": 11
+  },
+  {
+    "event_id": 292416,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-03-13",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 396223,
+    "name": "LCN Weekly Constructed",
+    "date": "2026-03-12",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 448141,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-03-11",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 430559,
+    "name": "Lorana Core Tournament",
+    "date": "2026-03-10",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 430767,
+    "name": "Sunday Afternoon Draft 3-8-26",
+    "date": "2026-03-08",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 21,
+    "players": 8
+  },
+  {
+    "event_id": 334269,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-03-08",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 406933,
+    "name": "March 6th Lorcana",
+    "date": "2026-03-07",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 438210,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2026-03-07",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 292411,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-03-07",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 21,
+    "players": 14
+  },
+  {
+    "event_id": 435774,
+    "name": "Lorcana: Winterspell Sealed Event",
+    "date": "2026-03-07",
+    "store": "Dreamers Vault Games Champlin",
+    "is_set_champ": false,
+    "matches": 24,
+    "players": 11
+  },
+  {
+    "event_id": 436515,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2026-03-06",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 396221,
+    "name": "LCN Weekly Constructed",
+    "date": "2026-03-05",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 434333,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-03-05",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 388483,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2026-03-04",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 2,
+    "players": 4
+  },
+  {
+    "event_id": 334268,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-03-02",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 10
+  },
+  {
+    "event_id": 352874,
+    "name": "Weekly Lorcana Feb 27th",
+    "date": "2026-02-28",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 292404,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-02-28",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 45,
+    "players": 17
+  },
+  {
+    "event_id": 422814,
+    "name": "Rochester coulee Early Morning Weekly Play (Draft)",
+    "date": "2026-02-28",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 10,
+    "players": 4
+  },
+  {
+    "event_id": 424167,
+    "name": "Gamers Row Weekly Play Saturday 11:30AM",
+    "date": "2026-02-28",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 9
+  },
+  {
+    "event_id": 396360,
+    "name": "Winterspell - Draft",
+    "date": "2026-02-28",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 8
+  },
+  {
+    "event_id": 424483,
+    "name": "Saturday Weekly Constructed",
+    "date": "2026-02-28",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 424587,
+    "name": "Saturday 1v1",
+    "date": "2026-02-28",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 418785,
+    "name": "Solz - Disney Lorcana Local",
+    "date": "2026-02-26",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 390408,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-02-26",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 337578,
+    "name": "LCN Release Draft: Winterspell",
+    "date": "2026-02-26",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 36,
+    "players": 12
+  },
+  {
+    "event_id": 360386,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2026-02-25",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 12
+  },
+  {
+    "event_id": 334267,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "date": "2026-02-23",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 411921,
+    "name": "Sunday Early Morning Weekly Play (Constructed)",
+    "date": "2026-02-22",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 407694,
+    "name": "Sunday Afternoon Weekly Play (Winterspell Draft)",
+    "date": "2026-02-22",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 34,
+    "players": 9
+  },
+  {
+    "event_id": 337576,
+    "name": "LCN Release Draft: Winterspell",
+    "date": "2026-02-22",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 10,
+    "players": 4
+  },
+  {
+    "event_id": 352867,
+    "name": "Weekly Lorcana Feb 20th",
+    "date": "2026-02-21",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 410129,
+    "name": "Roch Coulee Feb infinity event",
+    "date": "2026-02-21",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 292398,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-02-21",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 24,
+    "players": 12
+  },
+  {
+    "event_id": 403304,
+    "name": "Winterspell BOX TOURNAMENT (Constructed)",
+    "date": "2026-02-21",
+    "store": "Gamezenter",
+    "is_set_champ": false,
+    "matches": 22,
+    "players": 10
+  },
+  {
+    "event_id": 411800,
+    "name": "Saturday Night Weekly Play (Constructed)",
+    "date": "2026-02-21",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 23,
+    "players": 8
+  },
+  {
+    "event_id": 407774,
+    "name": "Thursday Night Lorcana",
+    "date": "2026-02-20",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 403336,
+    "name": "Solz - Disney: Lorcana Weekly Local (Sealed)",
+    "date": "2026-02-19",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 16,
+    "players": 7
+  },
+  {
+    "event_id": 337583,
+    "name": "Wednesday  Lorcana",
+    "date": "2026-02-19",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 360384,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2026-02-18",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 7
+  },
+  {
+    "event_id": 337575,
+    "name": "LCN PreRelease Pack Rush: Winterspell",
+    "date": "2026-02-18",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 2,
+    "players": 4
+  },
+  {
+    "event_id": 381527,
+    "name": "Sunday Afternoon Winterspell Prerelease - Sealed",
+    "date": "2026-02-15",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 28,
+    "players": 16
+  },
+  {
+    "event_id": 372921,
+    "name": "Sunday 1PM Winterspell Prerelease - Sealed",
+    "date": "2026-02-15",
+    "store": "Gamezenter",
+    "is_set_champ": false,
+    "matches": 55,
+    "players": 27
+  },
+  {
+    "event_id": 368742,
+    "name": "Friday Night Winterspell Prerelease - Sealed",
+    "date": "2026-02-14",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 30,
+    "players": 16
+  },
+  {
+    "event_id": 360421,
+    "name": "Lorcana Winterspell Release Event",
+    "date": "2026-02-14",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 27,
+    "players": 13
+  },
+  {
+    "event_id": 337601,
+    "name": "Friday Evening Winterspell Prerelease - Sealed",
+    "date": "2026-02-14",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 30,
+    "players": 12
+  },
+  {
+    "event_id": 351568,
+    "name": "Winterspell Prerelease",
+    "date": "2026-02-14",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 32,
+    "players": 17
+  },
+  {
+    "event_id": 380963,
+    "name": "Roch-Coulee Winterspell prerelease sealed",
+    "date": "2026-02-14",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 29,
+    "players": 11
+  },
+  {
+    "event_id": 292396,
+    "name": "WinterSpell Sealed PreRelease W/KrakenHits",
+    "date": "2026-02-14",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 129,
+    "players": 44
+  },
+  {
+    "event_id": 362558,
+    "name": "Solz Disney Lorcana: Winterspell Prerelease Event - Sealed",
+    "date": "2026-02-14",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 40,
+    "players": 16
+  },
+  {
+    "event_id": 362821,
+    "name": "Winterspell - Prerelease Event",
+    "date": "2026-02-14",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 6
+  },
+  {
+    "event_id": 362941,
+    "name": "Whispers in the Well - Draft",
+    "date": "2026-02-14",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 5
+  },
+  {
+    "event_id": 380550,
+    "name": "Satruday Morning Winterspell Pack Rush",
+    "date": "2026-02-14",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 27,
+    "players": 10
+  },
+  {
+    "event_id": 331693,
+    "name": "Saturday Afternoon Winterspell Prerelease - Pack Rush",
+    "date": "2026-02-14",
+    "store": "The Dork Den Inc",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 10
+  },
+  {
+    "event_id": 332251,
+    "name": "Saturday Afternoon Winterspell Prerelease - Sealed",
+    "date": "2026-02-14",
+    "store": "Sneak Attack's Games",
+    "is_set_champ": false,
+    "matches": 8,
+    "players": 4
+  },
+  {
+    "event_id": 374317,
+    "name": "Saturday Winter spell pre-release",
+    "date": "2026-02-14",
+    "store": "Emmy Ace Game & Hobby Shop",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 361827,
+    "name": "Illumineer Quest Palace Heist Demo",
+    "date": "2026-02-11",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 2,
+    "players": 4
+  },
+  {
+    "event_id": 388436,
+    "name": "Tuesday Locals",
+    "date": "2026-02-11",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 385768,
+    "name": "Monday Night Weekly Play (Sealed)",
+    "date": "2026-02-09",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 8,
+    "players": 4
+  },
+  {
+    "event_id": 334259,
+    "name": "Theme Deck Night! (One Franchise Only!)",
+    "date": "2026-02-08",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 292391,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-02-07",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 362815,
+    "name": "Illumineer's Quest - Palace Heist Event",
+    "date": "2026-02-07",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 7
+  },
+  {
+    "event_id": 377477,
+    "name": "Solz Disney Lorcana Weekly Local",
+    "date": "2026-02-05",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 337579,
+    "name": "Wednesday Lorcana",
+    "date": "2026-02-05",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 360380,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2026-02-04",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 7
+  },
+  {
+    "event_id": 334258,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-02-02",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 369350,
+    "name": "Sunday Early Morning Weekly Play (Constructed)",
+    "date": "2026-02-01",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 357235,
+    "name": "Sunday Afternoon Weekly Play (Sealed)",
+    "date": "2026-02-01",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 29,
+    "players": 9
+  },
+  {
+    "event_id": 367599,
+    "name": "Rochester Coulee January infinity event",
+    "date": "2026-01-31",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 292389,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-01-31",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 367789,
+    "name": "Saturday Early Morning Weekly Play (Constructed)",
+    "date": "2026-01-31",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 365217,
+    "name": "Bunker Gaming Lorcana Locals",
+    "date": "2026-01-30",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 362748,
+    "name": "Solz Disney Lorcana Weekly Local",
+    "date": "2026-01-29",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 313153,
+    "name": "Lorcana Win-A-Box",
+    "date": "2026-01-29",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 360480,
+    "name": "Lorcana Locals",
+    "date": "2026-01-28",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 334255,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-01-26",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 355325,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2026-01-25",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 313949,
+    "name": "Sunday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-25",
+    "store": "Issues Needed Comics",
+    "is_set_champ": true,
+    "matches": 27,
+    "players": 11
+  },
+  {
+    "event_id": 319460,
+    "name": "Sunday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-25",
+    "store": "Elemental Games LLP",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 292385,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-01-24",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 330955,
+    "name": "Saturday Movie Theme Deck Day",
+    "date": "2026-01-24",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 304424,
+    "name": "GZ Whispers in the Well - Set Championship",
+    "date": "2026-01-24",
+    "store": "Gamezenter",
+    "is_set_champ": true,
+    "matches": 31,
+    "players": 13
+  },
+  {
+    "event_id": 351597,
+    "name": "Vinny Spade Games, Saturday 1pm CT Whispers in the Well - Set Championship, Paynesville MN",
+    "date": "2026-01-24",
+    "store": "Emmy Ace Game & Hobby Shop",
+    "is_set_champ": true,
+    "matches": 22,
+    "players": 10
+  },
+  {
+    "event_id": 341755,
+    "name": "Whispers in the Well Set Championship",
+    "date": "2026-01-24",
+    "store": "Dreamers Vault Games South Saint Paul",
+    "is_set_champ": true,
+    "matches": 10,
+    "players": 8
+  },
+  {
+    "event_id": 349149,
+    "name": "Solz: Disney Lorcana Weekly Local",
+    "date": "2026-01-22",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 313147,
+    "name": "Wednesday Lorcana",
+    "date": "2026-01-22",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 334247,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-01-19",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 274476,
+    "name": "Set Championship",
+    "date": "2026-01-18",
+    "store": "2 Bros & A Box",
+    "is_set_champ": true,
+    "matches": 23,
+    "players": 9
+  },
+  {
+    "event_id": 286850,
+    "name": "Sunday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-18",
+    "store": "VB Games and More",
+    "is_set_champ": true,
+    "matches": 31,
+    "players": 13
+  },
+  {
+    "event_id": 290507,
+    "name": "Rochester Coulee Whispers Set Champs",
+    "date": "2026-01-18",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 292382,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-01-17",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 305655,
+    "name": "Saturday Morning Whispers in the Well - Set Championship",
+    "date": "2026-01-17",
+    "store": "The Dork Den Inc",
+    "is_set_champ": true,
+    "matches": 27,
+    "players": 12
+  },
+  {
+    "event_id": 338651,
+    "name": "Solz Gaming & Collectibles - Whispers in the Well - Set Championship",
+    "date": "2026-01-17",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": true,
+    "matches": 10,
+    "players": 8
+  },
+  {
+    "event_id": 278266,
+    "name": "Whispers in the Well Set Championship",
+    "date": "2026-01-17",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": true,
+    "matches": 23,
+    "players": 10
+  },
+  {
+    "event_id": 276817,
+    "name": "Whispers in the Well Set Championship w/Krakenhits",
+    "date": "2026-01-17",
+    "store": "Krakenhits",
+    "is_set_champ": true,
+    "matches": 35,
+    "players": 15
+  },
+  {
+    "event_id": 326567,
+    "name": "Whispers in the Well - Set Championship",
+    "date": "2026-01-17",
+    "store": "John's Total Entertainment",
+    "is_set_champ": true,
+    "matches": 23,
+    "players": 10
+  },
+  {
+    "event_id": 307594,
+    "name": "Saturday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-17",
+    "store": "Gamers Row llc",
+    "is_set_champ": true,
+    "matches": 31,
+    "players": 13
+  },
+  {
+    "event_id": 337662,
+    "name": "Thursday Evening Unstructured / Player List Only",
+    "date": "2026-01-16",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 2,
+    "players": 4
+  },
+  {
+    "event_id": 313142,
+    "name": "Wednesday Lorcana",
+    "date": "2026-01-15",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 327029,
+    "name": "Lorcana Core Tournament",
+    "date": "2026-01-14",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 312351,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2026-01-14",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 7
+  },
+  {
+    "event_id": 185408,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-01-12",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 282146,
+    "name": "Sunday Evening Whispers in the Well - Set Championship",
+    "date": "2026-01-12",
+    "store": "Bunker Gaming",
+    "is_set_champ": true,
+    "matches": 23,
+    "players": 10
+  },
+  {
+    "event_id": 268875,
+    "name": "Sunday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-11",
+    "store": "Fan Zone, Inc. - Willmar",
+    "is_set_champ": true,
+    "matches": 8,
+    "players": 8
+  },
+  {
+    "event_id": 255315,
+    "name": "The Forge's Whispers in the Well - Set Championship",
+    "date": "2026-01-11",
+    "store": "The Forge",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 271889,
+    "name": "Sunday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-11",
+    "store": "Dreamers Vault Games Champlin",
+    "is_set_champ": true,
+    "matches": 31,
+    "players": 13
+  },
+  {
+    "event_id": 311556,
+    "name": "Weekly Lorcana Jan 9th",
+    "date": "2026-01-10",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 18,
+    "players": 11
+  },
+  {
+    "event_id": 332032,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2026-01-10",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 8,
+    "players": 6
+  },
+  {
+    "event_id": 292374,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-01-10",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 277922,
+    "name": "JJ Whispers in the Well - Set Championship",
+    "date": "2026-01-10",
+    "store": "Jimmy Jams",
+    "is_set_champ": true,
+    "matches": 13,
+    "players": 8
+  },
+  {
+    "event_id": 275733,
+    "name": "LGS Lorcana Whispers in the Well - Set Championship",
+    "date": "2026-01-10",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": true,
+    "matches": 52,
+    "players": 17
+  },
+  {
+    "event_id": 330989,
+    "name": "Lorcana Locals",
+    "date": "2026-01-09",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 313140,
+    "name": "Wednesday Lorcana",
+    "date": "2026-01-08",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 327027,
+    "name": "Lorcana Core Tournament",
+    "date": "2026-01-07",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 312350,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2026-01-07",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 3,
+    "players": 6
+  },
+  {
+    "event_id": 324654,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2026-01-04",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 10,
+    "players": 6
+  },
+  {
+    "event_id": 288050,
+    "name": "Lorcana Whispers in the Well Set Championship",
+    "date": "2026-01-04",
+    "store": "Atlantis Hobby Owatonna",
+    "is_set_champ": true,
+    "matches": 16,
+    "players": 8
+  },
+  {
+    "event_id": 311555,
+    "name": "Weekly Lorcana Jan 2nd",
+    "date": "2026-01-03",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 292371,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-01-03",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 271885,
+    "name": "Saturday Morning Whispers in the Well - Set Championship",
+    "date": "2026-01-03",
+    "store": "Dreamers Vault Games (St Louis Park)",
+    "is_set_champ": true,
+    "matches": 64,
+    "players": 23
+  },
+  {
+    "event_id": 269212,
+    "name": "Whispers in the Well - Set Championship",
+    "date": "2026-01-03",
+    "store": "Sneak Attack's Games",
+    "is_set_champ": true,
+    "matches": 45,
+    "players": 17
+  },
+  {
+    "event_id": 288048,
+    "name": "Lorcana Whispers in the Well Set Championship",
+    "date": "2026-01-03",
+    "store": "Atlantis Hobby",
+    "is_set_champ": true,
+    "matches": 23,
+    "players": 10
+  },
+  {
+    "event_id": 289315,
+    "name": "Saturday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-03",
+    "store": "SLIVER KING GAMES",
+    "is_set_champ": true,
+    "matches": 8,
+    "players": 5
+  },
+  {
+    "event_id": 322148,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2026-01-02",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 278150,
+    "name": "Wednesday Lorcana",
+    "date": "2026-01-01",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 292100,
+    "name": "Lorcana Core",
+    "date": "2025-12-31",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 312347,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-12-31",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 8
+  },
+  {
+    "event_id": 317863,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-12-28",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 316750,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-12-27",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 292366,
+    "name": "Friday Night Locana w/Krakenhits",
+    "date": "2025-12-27",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 16,
+    "players": 8
+  },
+  {
+    "event_id": 291726,
+    "name": "Saturday Morning Weekly Play (Constructed)",
+    "date": "2025-12-27",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 292095,
+    "name": "Lorcana Core",
+    "date": "2025-12-24",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 313303,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-12-21",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 307279,
+    "name": "Chaos Sealed - Sunday Afternoon (Sealed)",
+    "date": "2025-12-21",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 30,
+    "players": 12
+  },
+  {
+    "event_id": 275870,
+    "name": "Weekly Lorcana Dec 19th Sealed",
+    "date": "2025-12-20",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 16,
+    "players": 8
+  },
+  {
+    "event_id": 312292,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-12-20",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 292362,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-12-20",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 24,
+    "players": 12
+  },
+  {
+    "event_id": 291723,
+    "name": "Saturday Morning Weekly Play (Constructed)",
+    "date": "2025-12-20",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 313008,
+    "name": "Lorcana Tournament",
+    "date": "2025-12-20",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 278148,
+    "name": "Wednesday Lorcana",
+    "date": "2025-12-18",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 9
+  },
+  {
+    "event_id": 310363,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-12-18",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 309460,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-12-17",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 309337,
+    "name": "Lorcana Tuesday Multi-player",
+    "date": "2025-12-17",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 3,
+    "players": 6
+  },
+  {
+    "event_id": 185406,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-12-15",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 306835,
+    "name": "Infinity Weekend",
+    "date": "2025-12-14",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 10,
+    "players": 6
+  },
+  {
+    "event_id": 262421,
+    "name": "To Infinity And Beyond!!!!",
+    "date": "2025-12-14",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 286740,
+    "name": "Sunday Afternoon Infinity Weekend Constructed Win a Box!",
+    "date": "2025-12-14",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 296349,
+    "name": "Sunday Afternoon Infinity Weekend Constructed Event",
+    "date": "2025-12-14",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 290592,
+    "name": "Sunday Afternoon Infinity Weekend Constructed Event",
+    "date": "2025-12-14",
+    "store": "Elemental Games LLP",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 280400,
+    "name": "LCN: Infinity Weekend",
+    "date": "2025-12-14",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 279074,
+    "name": "Friday Evening Infinity Weekend Constructed Event",
+    "date": "2025-12-13",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 275737,
+    "name": "Lorcana Infinity Constructed Weekend",
+    "date": "2025-12-13",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 1,
+    "players": 1
+  },
+  {
+    "event_id": 292212,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-12-13",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 271133,
+    "name": "Friday Evening Infinity Weekend Constructed Event",
+    "date": "2025-12-13",
+    "store": "The Dork Den Inc",
+    "is_set_champ": false,
+    "matches": 18,
+    "players": 11
+  },
+  {
+    "event_id": 290804,
+    "name": "Rochester Coulee Infinity Weekend Constructed Event",
+    "date": "2025-12-13",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 0,
+    "players": 0
+  },
+  {
+    "event_id": 287109,
+    "name": "Saturday Morning Infinity Weekend Constructed Event",
+    "date": "2025-12-13",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 262717,
+    "name": "Infinity Weekend Constructed Event",
+    "date": "2025-12-13",
+    "store": "Sneak Attack's Games",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 292462,
+    "name": "Lorcana Infinity Weekend Constructed",
+    "date": "2025-12-13",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 263017,
+    "name": "Infinity Weekend w/Krakenhits",
+    "date": "2025-12-13",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 50,
+    "players": 19
+  },
+  {
+    "event_id": 278133,
+    "name": "Disney Lorcana Infinity Weekend Event",
+    "date": "2025-12-13",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 303821,
+    "name": "Enchanted Elsa Tournament!",
+    "date": "2025-12-13",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 10
+  },
+  {
+    "event_id": 205435,
+    "name": "Lorcana Saturday Night 1v1",
+    "date": "2025-12-13",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 225192,
+    "name": "Wednesday Lorcana",
+    "date": "2025-12-11",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 185405,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-12-08",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 299418,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-12-07",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 296343,
+    "name": "Sunday Afternoon Weekly Play (Draft)",
+    "date": "2025-12-07",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 6
+  },
+  {
+    "event_id": 286869,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-12-06",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 14,
+    "players": 7
+  },
+  {
+    "event_id": 235613,
+    "name": "Weekly Lorcana Dec 5th",
+    "date": "2025-12-06",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 263119,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-12-06",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 18,
+    "players": 11
+  },
+  {
+    "event_id": 291707,
+    "name": "Saturday Morning Weekly Play (Constructed)",
+    "date": "2025-12-06",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 265515,
+    "name": "Lorcana 1v1 Core Constructed",
+    "date": "2025-12-06",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 294948,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-12-04",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 225191,
+    "name": "Wednesday Lorcana",
+    "date": "2025-12-04",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 265509,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-12-03",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 8
+  },
+  {
+    "event_id": 292086,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-12-03",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 263116,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-11-29",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 9
+  },
+  {
+    "event_id": 283967,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-11-27",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 225193,
+    "name": "Lorcana Win-A-Box",
+    "date": "2025-11-27",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 10
+  },
+  {
+    "event_id": 265508,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-11-26",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 5,
+    "players": 9
+  },
+  {
+    "event_id": 266428,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2025-11-24",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 185387,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2025-11-24",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 10
+  },
+  {
+    "event_id": 278315,
+    "name": "Solz Saturday Night Lorcana Local",
+    "date": "2025-11-23",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 257187,
+    "name": "Sunday Afternoon Weekly Play (Draft)",
+    "date": "2025-11-23",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 5
+  },
+  {
+    "event_id": 233841,
+    "name": "Weekly Lorcana Nov 21st",
+    "date": "2025-11-22",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 276700,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-11-22",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 218747,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-11-22",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 26,
+    "players": 13
+  },
+  {
+    "event_id": 272854,
+    "name": "Friday Night Weekly Play (Constructed)",
+    "date": "2025-11-22",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 277570,
+    "name": "Saturday Morning Weekly Play (Constructed)",
+    "date": "2025-11-22",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 277778,
+    "name": "Disney Lorcana Whispers in the Well Draft",
+    "date": "2025-11-22",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 18,
+    "players": 5
+  },
+  {
+    "event_id": 265513,
+    "name": "Lorcana 1v1 Core Constructed",
+    "date": "2025-11-22",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 274242,
+    "name": "Thursday Evening Unstructured / Player List Only",
+    "date": "2025-11-21",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 3,
+    "players": 6
+  },
+  {
+    "event_id": 276333,
+    "name": "Friday Afternoon Unstructured / Player List Only",
+    "date": "2025-11-21",
+    "store": "Emmy Ace Game & Hobby Shop",
+    "is_set_champ": false,
+    "matches": 2,
+    "players": 3
+  },
+  {
+    "event_id": 271843,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-11-20",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 225188,
+    "name": "LCN Release Draft: Whispers in the Well",
+    "date": "2025-11-20",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 24,
+    "players": 9
+  },
+  {
+    "event_id": 243188,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-11-19",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 269376,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-11-19",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 249313,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-11-19",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 3,
+    "players": 6
+  },
+  {
+    "event_id": 264328,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-11-15",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 227419,
+    "name": "Whispers In The Well Sealed Nov 14th",
+    "date": "2025-11-15",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 24,
+    "players": 11
+  },
+  {
+    "event_id": 262217,
+    "name": "Friday Evening Weekly Play (Sealed)",
+    "date": "2025-11-15",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 16,
+    "players": 7
+  },
+  {
+    "event_id": 260020,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-11-15",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 264532,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "date": "2025-11-15",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 205437,
+    "name": "Saturday League 1v1",
+    "date": "2025-11-15",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 263022,
+    "name": "Thursday Night Lorcana Locals",
+    "date": "2025-11-14",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 263147,
+    "name": "Thursday Evening Unstructured / Player List Only",
+    "date": "2025-11-14",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 3,
+    "players": 6
+  },
+  {
+    "event_id": 261393,
+    "name": "Wednesday Weekly Constructed",
+    "date": "2025-11-13",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 10
+  },
+  {
+    "event_id": 261431,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-11-13",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 243187,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-11-12",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 249311,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-11-12",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 5,
+    "players": 10
+  },
+  {
+    "event_id": 225182,
+    "name": "LCN PreRelease Pack Rush: Whispers in the Well",
+    "date": "2025-11-12",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 7
+  },
+  {
+    "event_id": 185382,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2025-11-10",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 256020,
+    "name": "Saturday Evening Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-09",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 25,
+    "players": 10
+  },
+  {
+    "event_id": 255286,
+    "name": "Sunday Afternoon Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-09",
+    "store": "Issues Needed Comics",
+    "is_set_champ": false,
+    "matches": 30,
+    "players": 12
+  },
+  {
+    "event_id": 241629,
+    "name": "Friday Evening Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-08",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 6
+  },
+  {
+    "event_id": 217044,
+    "name": "Whispers in the Well Release Draft",
+    "date": "2025-11-08",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 40,
+    "players": 13
+  },
+  {
+    "event_id": 227401,
+    "name": "Whisper in The Well Prerelease Sealed",
+    "date": "2025-11-08",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 28,
+    "players": 14
+  },
+  {
+    "event_id": 253586,
+    "name": "Friday Evening Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-08",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 30,
+    "players": 12
+  },
+  {
+    "event_id": 248524,
+    "name": "Whispers in the Well (SEALED) w/Krakenhits",
+    "date": "2025-11-08",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 54,
+    "players": 36
+  },
+  {
+    "event_id": 249624,
+    "name": "Disney Lorcana Prerelease at Games by James",
+    "date": "2025-11-08",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 3,
+    "players": 5
+  },
+  {
+    "event_id": 223267,
+    "name": "Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-08",
+    "store": "Sneak Attack's Games",
+    "is_set_champ": false,
+    "matches": 25,
+    "players": 10
+  },
+  {
+    "event_id": 250157,
+    "name": "Saturday Afternoon Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-08",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 33,
+    "players": 13
+  },
+  {
+    "event_id": 253907,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-11-07",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 252579,
+    "name": "Solz Weekly Disney: Lorcana Local",
+    "date": "2025-11-06",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 225190,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-11-06",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 243186,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-11-05",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 249308,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-11-05",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 7
+  },
+  {
+    "event_id": 251253,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-11-05",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 185381,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-11-03",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 247123,
+    "name": "Championship",
+    "date": "2025-11-01",
+    "store": "Emmy Ace Game & Hobby Shop",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 8
+  },
+  {
+    "event_id": 247223,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "date": "2025-11-01",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 190855,
+    "name": "Lorcana Win-A-Box",
+    "date": "2025-10-30",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 10
+  },
+  {
+    "event_id": 205444,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2025-10-29",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 5,
+    "players": 9
+  },
+  {
+    "event_id": 185521,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-10-29",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 206837,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-10-28",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 201159,
+    "name": "Fabled Store Championship",
+    "date": "2025-10-26",
+    "store": "Elemental Games LLP",
+    "is_set_champ": true,
+    "matches": 31,
+    "players": 13
+  },
+  {
+    "event_id": 187302,
+    "name": "Saturday Morning Fabled - Set Championship",
+    "date": "2025-10-25",
+    "store": "Dreamers Vault Games South Saint Paul",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 217639,
+    "name": "Solz - Disney: Lorcana - Fabled - Set Championship",
+    "date": "2025-10-25",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": true,
+    "matches": 18,
+    "players": 9
+  },
+  {
+    "event_id": 218096,
+    "name": "Saturday Afternoon Fabled - Set Championship",
+    "date": "2025-10-25",
+    "store": "John's Total Entertainment",
+    "is_set_champ": true,
+    "matches": 16,
+    "players": 8
+  },
+  {
+    "event_id": 205833,
+    "name": "Saturday Afternoon Fabled - Set Championship",
+    "date": "2025-10-25",
+    "store": "Gamers Row llc",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 198841,
+    "name": "Lorcana Fabled Set Championship",
+    "date": "2025-10-25",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": true,
+    "matches": 13,
+    "players": 8
+  },
+  {
+    "event_id": 190852,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-23",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 239728,
+    "name": "Lorcana Locals",
+    "date": "2025-10-23",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 5,
+    "players": 4
+  },
+  {
+    "event_id": 205442,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2025-10-22",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 3,
+    "players": 5
+  },
+  {
+    "event_id": 206834,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-10-21",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 237617,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-21",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 199368,
+    "name": "Sunday Afternoon Fabled - Set Championship",
+    "date": "2025-10-19",
+    "store": "Fan Zone, Inc. - Willmar",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 211659,
+    "name": "Sunday Afternoon Fabled - Set Championship",
+    "date": "2025-10-19",
+    "store": "Issues Needed Comics",
+    "is_set_champ": true,
+    "matches": 27,
+    "players": 12
+  },
+  {
+    "event_id": 209630,
+    "name": "Lorcana Fabled Store Championship",
+    "date": "2025-10-19",
+    "store": "Atlantis Hobby Owatonna",
+    "is_set_champ": true,
+    "matches": 23,
+    "players": 9
+  },
+  {
+    "event_id": 187300,
+    "name": "Sunday Afternoon Fabled - Set Championship",
+    "date": "2025-10-19",
+    "store": "Dreamers Vault Games Champlin",
+    "is_set_champ": true,
+    "matches": 23,
+    "players": 9
+  },
+  {
+    "event_id": 206433,
+    "name": "Sunday Afternoon Fabled - Set Championship",
+    "date": "2025-10-19",
+    "store": "Bunker Gaming",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 187297,
+    "name": "Saturday Morning Fabled - Set Championship",
+    "date": "2025-10-18",
+    "store": "Dreamers Vault Games (St Louis Park)",
+    "is_set_champ": true,
+    "matches": 35,
+    "players": 15
+  },
+  {
+    "event_id": 203155,
+    "name": "Set Championships (Fabled) w/Krakenhits",
+    "date": "2025-10-18",
+    "store": "Krakenhits",
+    "is_set_champ": true,
+    "matches": 77,
+    "players": 28
+  },
+  {
+    "event_id": 196702,
+    "name": "Lorcana Fabled Store Championship",
+    "date": "2025-10-18",
+    "store": "Atlantis Hobby",
+    "is_set_champ": true,
+    "matches": 52,
+    "players": 18
+  },
+  {
+    "event_id": 206120,
+    "name": "GameZenter Disney Lorcana Fabled - Set Championship",
+    "date": "2025-10-18",
+    "store": "Gamezenter",
+    "is_set_champ": true,
+    "matches": 35,
+    "players": 15
+  },
+  {
+    "event_id": 227698,
+    "name": "Lorcana Locals",
+    "date": "2025-10-17",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 218743,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-10-17",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 199478,
+    "name": "Weekly Lorcana October 17th",
+    "date": "2025-10-17",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 190851,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-16",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 185517,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-10-15",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 206833,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-10-14",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 192880,
+    "name": "Sunday Morning Fabled - Set Championship",
+    "date": "2025-10-12",
+    "store": "VB Games and More",
+    "is_set_champ": true,
+    "matches": 35,
+    "players": 16
+  },
+  {
+    "event_id": 183582,
+    "name": "Sunday Morning Fabled - Set Championship",
+    "date": "2025-10-12",
+    "store": "2 Bros & A Box",
+    "is_set_champ": true,
+    "matches": 49,
+    "players": 19
+  },
+  {
+    "event_id": 182301,
+    "name": "Fabled - Set Championship",
+    "date": "2025-10-12",
+    "store": "Table Top Tournaments",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 187298,
+    "name": "Sunday Afternoon Fabled - Set Championship",
+    "date": "2025-10-12",
+    "store": "Dreamers Vault Games (Minneapolis)",
+    "is_set_champ": true,
+    "matches": 31,
+    "players": 13
+  },
+  {
+    "event_id": 220632,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "date": "2025-10-12",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 6
+  },
+  {
+    "event_id": 184110,
+    "name": "The Forge Sunday Night Constructed",
+    "date": "2025-10-12",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 200709,
+    "name": "Sunday Evening Fabled - Set Championship",
+    "date": "2025-10-12",
+    "store": "SLIVER KING GAMES",
+    "is_set_champ": true,
+    "matches": 58,
+    "players": 23
+  },
+  {
+    "event_id": 191900,
+    "name": "The Dork Den Fabled - Set Championship",
+    "date": "2025-10-11",
+    "store": "The Dork Den Inc",
+    "is_set_champ": true,
+    "matches": 48,
+    "players": 17
+  },
+  {
+    "event_id": 202785,
+    "name": "Saturday Afternoon Fabled - Set Championship",
+    "date": "2025-10-11",
+    "store": "Sneak Attack's Games",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 220011,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-10-11",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 192813,
+    "name": "Weekly Lorcana Oct 10th",
+    "date": "2025-10-10",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 218742,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-10-10",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 190849,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-09",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 9
+  },
+  {
+    "event_id": 217660,
+    "name": "Thursday Lumineers",
+    "date": "2025-10-09",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 218617,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-10-09",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 205440,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2025-10-08",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 8
+  },
+  {
+    "event_id": 185516,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-10-08",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 216197,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-10-07",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 189042,
+    "name": "The Forge's Fabled - Set Championship",
+    "date": "2025-10-05",
+    "store": "The Forge",
+    "is_set_champ": true,
+    "matches": 62,
+    "players": 24
+  },
+  {
+    "event_id": 198931,
+    "name": "JJ Fabled Championship",
+    "date": "2025-10-04",
+    "store": "Jimmy Jams",
+    "is_set_champ": false,
+    "matches": 35,
+    "players": 15
+  },
+  {
+    "event_id": 204166,
+    "name": "Fabled - Set Championship Lewis Game Shop",
+    "date": "2025-10-04",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": true,
+    "matches": 54,
+    "players": 20
+  },
+  {
+    "event_id": 212354,
+    "name": "Tournament TIme!",
+    "date": "2025-10-04",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 192541,
+    "name": "Weekly Lorcana October 3rd",
+    "date": "2025-10-03",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 18,
+    "players": 12
+  },
+  {
+    "event_id": 208152,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-10-03",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 187659,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-10-03",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 18,
+    "players": 12
+  },
+  {
+    "event_id": 190845,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-02",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 210868,
+    "name": "Lorcana Locals",
+    "date": "2025-10-02",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 208131,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-01",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 178198,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-09-30",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 185369,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-09-28",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 198835,
+    "name": "Lorcana Fabled Draft",
+    "date": "2025-09-27",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 6
+  },
+  {
+    "event_id": 205194,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "date": "2025-09-27",
+    "store": "Sneak Attack's Games",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 10
+  },
+  {
+    "event_id": 192906,
+    "name": "Saturday Evening Constructed (Standard)",
+    "date": "2025-09-27",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 192001,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-09-26",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 176066,
+    "name": "September 26th Lorcana",
+    "date": "2025-09-26",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 10
+  },
+  {
+    "event_id": 187657,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-09-26",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 18,
+    "players": 12
+  },
+  {
+    "event_id": 190843,
+    "name": "Lorcana Win-A-Box",
+    "date": "2025-09-25",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 21,
+    "players": 14
+  },
+  {
+    "event_id": 203985,
+    "name": "Lorcana Locals",
+    "date": "2025-09-25",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 201971,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-24",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 185511,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-09-24",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 178197,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-09-23",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 185367,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-09-21",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 200322,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-09-20",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 13,
+    "players": 8
+  },
+  {
+    "event_id": 198813,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-09-19",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 192000,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-09-19",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 176065,
+    "name": "September 19th Lorcana",
+    "date": "2025-09-19",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 18,
+    "players": 11
+  },
+  {
+    "event_id": 187654,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-09-19",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 18,
+    "players": 12
+  },
+  {
+    "event_id": 190842,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-18",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 185507,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-09-17",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 196629,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-16",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 186884,
+    "name": "Sunday Afternoon - Fabled SEALED Event",
+    "date": "2025-09-14",
+    "store": "Gamezenter",
+    "is_set_champ": false,
+    "matches": 41,
+    "players": 22
+  },
+  {
+    "event_id": 185366,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-09-14",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 188540,
+    "name": "Saturday Evening Weekly Play (Standard)",
+    "date": "2025-09-13",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 192555,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-09-13",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 191073,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-09-12",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 191070,
+    "name": "Lorcana Locals",
+    "date": "2025-09-12",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 176062,
+    "name": "Fabled Sealed September 12th",
+    "date": "2025-09-12",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 33,
+    "players": 15
+  },
+  {
+    "event_id": 191986,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-09-12",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 187651,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-09-12",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 27,
+    "players": 18
+  },
+  {
+    "event_id": 170628,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-11",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 25,
+    "players": 9
+  },
+  {
+    "event_id": 185505,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-09-10",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 189875,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-09",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 185202,
+    "name": "The Forge Sunday Night Constructed",
+    "date": "2025-09-07",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 184984,
+    "name": "Saturday League 1v1",
+    "date": "2025-09-06",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 188264,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-09-06",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 176060,
+    "name": "Weekly Lorcana September 5th",
+    "date": "2025-09-05",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 9
+  },
+  {
+    "event_id": 187176,
+    "name": "Friday Evening Prerelease (Sealed)",
+    "date": "2025-09-05",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 16,
+    "players": 7
+  },
+  {
+    "event_id": 168951,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-09-05",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 24,
+    "players": 12
+  },
+  {
+    "event_id": 187432,
+    "name": "Friday Evening Weekly Play (Sealed)",
+    "date": "2025-09-05",
+    "store": "Dreamers Vault Games Champlin",
+    "is_set_champ": false,
+    "matches": 23,
+    "players": 11
+  },
+  {
+    "event_id": 170633,
+    "name": "LCN Release Draft: Fabled",
+    "date": "2025-09-04",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 8
+  },
+  {
+    "event_id": 186518,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-09-04",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 185498,
+    "name": "Solz - Disney Lorcana - Fabled Release Event(Sealed)",
+    "date": "2025-09-03",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 184913,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-02",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 170632,
+    "name": "LCN Release Draft: Fabled",
+    "date": "2025-08-31",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 8
+  },
+  {
+    "event_id": 183984,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2025-08-31",
+    "store": "The Forge",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 183137,
+    "name": "Gamers Row Fabled Sealed Event",
+    "date": "2025-08-30",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 30,
+    "players": 12
+  },
+  {
+    "event_id": 183523,
+    "name": "Lorcana Mixed Draft",
+    "date": "2025-08-30",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 180769,
+    "name": "Friday Evening Fabled - Prerelease (Sealed)",
+    "date": "2025-08-29",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 33,
+    "players": 14
+  },
+  {
+    "event_id": 176479,
+    "name": "Lorcana Fabled Release Draft",
+    "date": "2025-08-29",
+    "store": "Atlantis Hobby",
+    "is_set_champ": false,
+    "matches": 42,
+    "players": 14
+  },
+  {
+    "event_id": 168950,
+    "name": "Fabled Sealed w/Krakenhits",
+    "date": "2025-08-29",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 64,
+    "players": 44
+  },
+  {
+    "event_id": 183044,
+    "name": "Friday Evening Fabled - Prerelease (Sealed)",
+    "date": "2025-08-29",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 16,
+    "players": 7
+  },
+  {
+    "event_id": 174272,
+    "name": "Friday Evening Prerelease (Sealed)",
+    "date": "2025-08-29",
+    "store": "The Dork Den Inc",
+    "is_set_champ": false,
+    "matches": 8,
+    "players": 4
+  },
+  {
+    "event_id": 170629,
+    "name": "Lorcana Win-A-Box (Constructed)",
+    "date": "2025-08-28",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 182380,
+    "name": "8/28/25 Locals",
+    "date": "2025-08-28",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 180373,
+    "name": "DLA Sun - Chaos Sealed",
+    "date": "2025-08-24",
+    "store": "Gamezenter",
+    "is_set_champ": false,
+    "matches": 14,
+    "players": 8
+  },
+  {
+    "event_id": 180381,
+    "name": "DLA Sun - Cube",
+    "date": "2025-08-24",
+    "store": "Gamezenter",
+    "is_set_champ": false,
+    "matches": 20,
+    "players": 8
+  },
+  {
+    "event_id": 180428,
+    "name": "DLA Sun - Chaos Draft",
+    "date": "2025-08-24",
+    "store": "Gamezenter",
+    "is_set_champ": false,
+    "matches": 28,
+    "players": 11
+  },
+  {
+    "event_id": 180073,
+    "name": "DLA Sat - Chaos Sealed",
+    "date": "2025-08-23",
+    "store": "Gamezenter",
+    "is_set_champ": false,
+    "matches": 40,
+    "players": 20
+  },
+  {
+    "event_id": 180232,
+    "name": "[CANCELED] DLA Sat - Chaos Draft (NEW)",
+    "date": "2025-08-23",
+    "store": "Gamezenter",
+    "is_set_champ": false,
+    "matches": 8,
+    "players": 8
+  },
+  {
+    "event_id": 180265,
+    "name": "DLA Sat - Chaos Draft 3",
+    "date": "2025-08-23",
+    "store": "Gamezenter",
+    "is_set_champ": false,
+    "matches": 7,
+    "players": 8
+  },
+  {
+    "event_id": 167878,
+    "name": "Weekly Lorcana August 22nd",
+    "date": "2025-08-22",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 168949,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-08-22",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 179692,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-08-22",
+    "store": "Coulee Cards & Gaming Rochester",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 170627,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-08-21",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 179439,
+    "name": "Lorcana Locals - Bunker Gaming MN",
+    "date": "2025-08-21",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 5
+  },
+  {
+    "event_id": 159948,
+    "name": "Reign Of Jafar Win A Box!",
+    "date": "2025-08-17",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 32,
+    "players": 16
+  },
+  {
+    "event_id": 167877,
+    "name": "Weekly Lorcana August 15th",
+    "date": "2025-08-15",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 168948,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-08-15",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 170624,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-08-14",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 174300,
+    "name": "Solz Weekly Disney: Lorcana Local",
+    "date": "2025-08-13",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 170567,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-08-12",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 175748,
+    "name": "Sunday Morning Weekly Play (Constructed)",
+    "date": "2025-08-10",
+    "store": "Dreamers Vault Games Champlin",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 163410,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-10",
+    "store": "Fan Zone, Inc. - Willmar",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 173217,
+    "name": "Sunday Early Morning Reign of Jafar - Set Championship",
+    "date": "2025-08-10",
+    "store": "Elemental Games LLP",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 157750,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-10",
+    "store": "Dreamers Vault Games Champlin",
+    "is_set_champ": true,
+    "matches": 60,
+    "players": 22
+  },
+  {
+    "event_id": 158587,
+    "name": "Disney Lorcana Reign of Jafar - Set Championship",
+    "date": "2025-08-09",
+    "store": "The Gamers Den",
+    "is_set_champ": true,
+    "matches": 27,
+    "players": 12
+  },
+  {
+    "event_id": 167100,
+    "name": "Reign of Jafar - Set Championship at Vinny Spade Games",
+    "date": "2025-08-09",
+    "store": "Emmy Ace Game & Hobby Shop",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 157740,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-09",
+    "store": "Dreamers Vault Games South Saint Paul",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 165846,
+    "name": "Lorcana Reign of Jafar Set Championship",
+    "date": "2025-08-09",
+    "store": "Games by James in the Ridgedale Center",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 168946,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-08-08",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 18,
+    "players": 12
+  },
+  {
+    "event_id": 157714,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-08-07",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 174817,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-08-07",
+    "store": "Bunker Gaming",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 170566,
+    "name": "Lorana Core Tournament",
+    "date": "2025-08-05",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 157139,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-03",
+    "store": "VB Games and More",
+    "is_set_champ": true,
+    "matches": 51,
+    "players": 17
+  },
+  {
+    "event_id": 157702,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-03",
+    "store": "Table Top Tournaments",
+    "is_set_champ": true,
+    "matches": 51,
+    "players": 18
+  },
+  {
+    "event_id": 171632,
+    "name": "Solz - Disney Lorcana - Reign of Jafar Set Championship Event",
+    "date": "2025-08-02",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": true,
+    "matches": 27,
+    "players": 11
+  },
+  {
+    "event_id": 158516,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-02",
+    "store": "Jimmy Jams",
+    "is_set_champ": true,
+    "matches": 23,
+    "players": 9
+  },
+  {
+    "event_id": 158206,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-02",
+    "store": "The Dork Den Inc",
+    "is_set_champ": true,
+    "matches": 31,
+    "players": 13
+  },
+  {
+    "event_id": 162819,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-02",
+    "store": "Gamers Row llc",
+    "is_set_champ": true,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 163980,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-02",
+    "store": "SLIVER KING GAMES",
+    "is_set_champ": true,
+    "matches": 31,
+    "players": 14
+  },
+  {
+    "event_id": 159027,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-02",
+    "store": "Bunker Gaming",
+    "is_set_champ": true,
+    "matches": 22,
+    "players": 9
+  },
+  {
+    "event_id": 165383,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-08-01",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 162874,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-08-01",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 157713,
+    "name": "Lorcana Monthly Win A Box (Constructed)",
+    "date": "2025-07-31",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 10
+  },
+  {
+    "event_id": 171013,
+    "name": "Tuesday Afternoon Weekly Play (Constructed)",
+    "date": "2025-07-31",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 156780,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-07-29",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 157622,
+    "name": "Sunday Morning Reign of Jafar - Set Championship",
+    "date": "2025-07-27",
+    "store": "2 Bros & A Box",
+    "is_set_champ": true,
+    "matches": 99,
+    "players": 36
+  },
+  {
+    "event_id": 159902,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-07-27",
+    "store": "Issues Needed Comics",
+    "is_set_champ": true,
+    "matches": 33,
+    "players": 15
+  },
+  {
+    "event_id": 158915,
+    "name": "Reign of Jafar - Set Championship Lewis Game Shop",
+    "date": "2025-07-26",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": true,
+    "matches": 71,
+    "players": 25
+  },
+  {
+    "event_id": 169622,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-07-25",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 160351,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-07-25",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 10
+  },
+  {
+    "event_id": 162873,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-07-25",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 157712,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-07-24",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 156777,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-07-22",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 162706,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-07-20",
+    "store": "Atlantis Hobby Owatonna",
+    "is_set_champ": true,
+    "matches": 55,
+    "players": 20
+  },
+  {
+    "event_id": 161224,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-07-19",
+    "store": "Atlantis Hobby",
+    "is_set_champ": true,
+    "matches": 35,
+    "players": 14
+  },
+  {
+    "event_id": 162869,
+    "name": "Jafar Set Championships w/Krakenhits",
+    "date": "2025-07-19",
+    "store": "Krakenhits",
+    "is_set_champ": true,
+    "matches": 61,
+    "players": 21
+  },
+  {
+    "event_id": 160259,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-07-19",
+    "store": "Sneak Attack's Games",
+    "is_set_champ": true,
+    "matches": 35,
+    "players": 15
+  },
+  {
+    "event_id": 157736,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-07-19",
+    "store": "Dreamers Vault Games (St Louis Park)",
+    "is_set_champ": true,
+    "matches": 27,
+    "players": 12
+  },
+  {
+    "event_id": 167926,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-07-19",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 167519,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-07-18",
+    "store": "Atlantis Hobby Owatonna",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 4
+  },
+  {
+    "event_id": 165377,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-07-18",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 160350,
+    "name": "Weekly Lorcana with LGS",
+    "date": "2025-07-18",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 9
+  },
+  {
+    "event_id": 162872,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-07-18",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 167189,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-07-17",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 156776,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-07-15",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 162822,
+    "name": "Saturday Afternoon Weekly Play (Sealed)",
+    "date": "2025-07-12",
+    "store": "Gamers Row llc",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 7
+  },
+  {
+    "event_id": 158990,
+    "name": "Lorcana Reign of Jafar (Sealed)",
+    "date": "2025-07-11",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 4,
+    "players": 7
+  },
+  {
+    "event_id": 165143,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-07-11",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 162870,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-07-11",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 157709,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-07-10",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 21,
+    "players": 14
+  },
+  {
+    "event_id": 164333,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-07-09",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 156775,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-07-08",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 9
+  },
+  {
+    "event_id": 162803,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-07-05",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 161977,
+    "name": "Seal time six!",
+    "date": "2025-07-04",
+    "store": "2 Bros & A Box",
+    "is_set_champ": false,
+    "matches": 2,
+    "players": 2
+  },
+  {
+    "event_id": 157707,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-07-03",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 161384,
+    "name": "Solz Lorcana Weekly Local",
+    "date": "2025-07-02",
+    "store": "Solz Gaming and Collectibles LLC",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 3
+  },
+  {
+    "event_id": 156774,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-07-01",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 7
+  },
+  {
+    "event_id": 157135,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-06-27",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 158916,
+    "name": "Weekly Lorcana",
+    "date": "2025-06-27",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 158704,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-06-27",
+    "store": "Krakenhits",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 158638,
+    "name": "Lorcana Win-A-Box (Constructed)",
+    "date": "2025-06-26",
+    "store": "Table Top Tournaments",
+    "is_set_champ": false,
+    "matches": 15,
+    "players": 9
+  },
+  {
+    "event_id": 156772,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-06-24",
+    "store": "The Gamers Den",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  },
+  {
+    "event_id": 156865,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-06-20",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 5
+  },
+  {
+    "event_id": 155020,
+    "name": "Weekly LGS Lorcana",
+    "date": "2025-06-20",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 6,
+    "players": 4
+  },
+  {
+    "event_id": 154985,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-06-13",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 12,
+    "players": 8
+  },
+  {
+    "event_id": 141501,
+    "name": "Lorcana Reign of Jafar Sealed",
+    "date": "2025-06-13",
+    "store": "Lewis Game Shop Monticello",
+    "is_set_champ": false,
+    "matches": 24,
+    "players": 12
+  },
+  {
+    "event_id": 144303,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-06-06",
+    "store": "VB Games and More",
+    "is_set_champ": false,
+    "matches": 9,
+    "players": 6
+  }
+]

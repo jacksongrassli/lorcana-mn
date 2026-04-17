@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip3 install:*)",
+      "Bash(python3 fetch_events.py)",
+      "Bash(python3 -c ':*)",
+      "Bash(python3 fetch_matches.py)",
+      "Bash(python3 -c \"import json; data = json.load\\(open\\('/Users/jacksonandersen/Desktop/Software Projects/Lorcana MN/data/matches.json'\\)\\); print\\(f'Matches: {len\\(data\\)}'\\)\")",
+      "Bash(pkill -f fetch_matches.py)",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\('/Users/jacksonandersen/Desktop/Software Projects/Lorcana MN/data/matches.json'\\)\\); print\\(f'Matches so far: {len\\(d\\)}'\\)\")",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\('/Users/jacksonandersen/Desktop/Software Projects/Lorcana MN/data/matches.json'\\)\\); print\\(f'Matches: {len\\(d\\)}'\\)\")",
+      "Bash(python3 calculate_elo.py)",
+      "Bash(python3 generate_site.py)",
+      "mcp__Claude_Preview__preview_start",
+      "WebSearch",
+      "Bash(python3 fetch_usernames.py)",
+      "Bash(gh auth:*)",
+      "Bash(gh --version)"
+    ]
+  }
+}

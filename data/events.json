@@ -1,0 +1,6879 @@
+[
+  {
+    "event_id": 144303,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-06-06T23:30:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      177,
+      178,
+      179
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 154985,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-06-13T23:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      981,
+      982,
+      983
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 141501,
+    "name": "Lorcana Reign of Jafar Sealed",
+    "date": "2025-06-13T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      987,
+      988,
+      989,
+      990,
+      991
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 156865,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-06-20T23:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      3006,
+      3007,
+      3008
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 155020,
+    "name": "Weekly LGS Lorcana",
+    "date": "2025-06-20T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      3015,
+      3016,
+      3017
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 156772,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-06-24T11:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      4364,
+      4365,
+      4366
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 158638,
+    "name": "Lorcana Win-A-Box (Constructed)",
+    "date": "2025-06-26T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      4785,
+      4786,
+      4787
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157135,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-06-27T23:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      5655,
+      5656,
+      5657
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 158916,
+    "name": "Weekly Lorcana",
+    "date": "2025-06-27T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      5695,
+      5696,
+      5697
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 158704,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-06-27T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      5716,
+      5717,
+      5718
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 156774,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-07-01T11:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      7610,
+      7611,
+      7612
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 161384,
+    "name": "Solz Lorcana Weekly Local",
+    "date": "2025-07-02T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      8158,
+      8159,
+      8160
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157707,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-07-03T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      8172,
+      8173,
+      8174
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 161977,
+    "name": "Seal time six!",
+    "date": "2025-07-04T00:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      8779,
+      8780,
+      8781,
+      8782
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 162803,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-07-05T23:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      10247,
+      10248,
+      10249
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 156775,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-07-08T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      11594,
+      11595,
+      11596,
+      11597
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 164333,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-07-09T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      12236,
+      12237,
+      12238
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157709,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-07-10T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      12274,
+      12275,
+      12276,
+      12277
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 158990,
+    "name": "Lorcana Reign of Jafar (Sealed)",
+    "date": "2025-07-11T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      13791,
+      13792,
+      13793,
+      13794
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 165143,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-07-11T23:30:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      13788,
+      13789,
+      13790
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 162870,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-07-11T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      13802,
+      13803,
+      13804
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 162822,
+    "name": "Saturday Afternoon Weekly Play (Sealed)",
+    "date": "2025-07-12T19:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      15787,
+      15788,
+      15789,
+      15790
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 156776,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-07-15T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      18692,
+      18693,
+      18694
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 167189,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-07-17T23:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      20042,
+      20043,
+      20044
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 167519,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-07-18T22:00:00+00:00",
+    "store_name": "Atlantis Hobby Owatonna",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      20621,
+      20622,
+      20623
+    ],
+    "rounds_fetched": false
+  },
+  {
+    "event_id": 165377,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-07-18T23:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      20880,
+      20881,
+      20882
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 160350,
+    "name": "Weekly Lorcana with LGS",
+    "date": "2025-07-18T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      20750,
+      20751,
+      20752,
+      20753
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 162872,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-07-18T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      20853,
+      20854,
+      20855
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 161224,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-07-19T17:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      22541,
+      22542,
+      22543,
+      22544,
+      23132,
+      23133,
+      23134
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 162869,
+    "name": "Jafar Set Championships w/Krakenhits",
+    "date": "2025-07-19T17:00:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      22499,
+      22500,
+      22501,
+      22502,
+      22503,
+      23186,
+      23187,
+      23188
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 160259,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-07-19T17:00:00+00:00",
+    "store_name": "Sneak Attack's Games",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      22517,
+      22518,
+      22519,
+      22520,
+      23127,
+      23128
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157736,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-07-19T18:00:00+00:00",
+    "store_name": "Dreamers Vault Games (St Louis Park)",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      22716,
+      22717,
+      22718,
+      22719,
+      23242,
+      23243
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 167926,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-07-19T23:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      23416,
+      23417,
+      23418
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 162706,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-07-20T17:00:00+00:00",
+    "store_name": "Atlantis Hobby Owatonna",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      24630,
+      24631,
+      24632,
+      24633,
+      24634,
+      25315,
+      25316,
+      25317
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 156777,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-07-22T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      26145,
+      26146,
+      26147
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157712,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-07-24T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      26830,
+      26831,
+      26832
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 169622,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-07-25T00:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      27492,
+      27493,
+      27494
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 160351,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-07-25T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      28113,
+      28114,
+      28115,
+      28116
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 162873,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-07-25T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      28123,
+      28124,
+      28125
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 158915,
+    "name": "Reign of Jafar - Set Championship Lewis Game Shop",
+    "date": "2025-07-26T19:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      29779,
+      29780,
+      29781,
+      29782,
+      29783,
+      30314,
+      30315,
+      30316
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157622,
+    "name": "Sunday Morning Reign of Jafar - Set Championship",
+    "date": "2025-07-27T16:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      31239,
+      31240,
+      31241,
+      31242,
+      31243,
+      31244,
+      31854,
+      31855,
+      31856
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 159902,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-07-27T17:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      31337,
+      31338,
+      31339,
+      31340,
+      31762,
+      31763
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 156780,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-07-29T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      32755,
+      32756,
+      32757
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157713,
+    "name": "Lorcana Monthly Win A Box (Constructed)",
+    "date": "2025-07-31T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      33435,
+      33436,
+      33437,
+      33438
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 171013,
+    "name": "Tuesday Afternoon Weekly Play (Constructed)",
+    "date": "2025-07-31T23:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      34097,
+      34098,
+      34099
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 165383,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-08-01T23:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      37517,
+      37518,
+      37519
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 162874,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-08-01T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      34880,
+      34881,
+      34882
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 171632,
+    "name": "Solz - Disney Lorcana - Reign of Jafar Set Championship Event",
+    "date": "2025-08-02T15:00:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      36204,
+      36205,
+      36206,
+      36207,
+      37420,
+      37421
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 158516,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-02T17:00:00+00:00",
+    "store_name": "Jimmy Jams",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      36770,
+      36771,
+      36772,
+      36773,
+      37740,
+      37741
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 158206,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-02T17:35:00+00:00",
+    "store_name": "The Dork Den Inc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      36850,
+      36851,
+      36852,
+      36853,
+      37685,
+      37686
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 162819,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-02T18:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      36958,
+      36959,
+      36960
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 163980,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-02T18:00:00+00:00",
+    "store_name": "SLIVER KING GAMES",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      37069,
+      37070,
+      37071,
+      37072,
+      37850,
+      37851
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 159027,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-02T18:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      37045,
+      37046,
+      37047,
+      37048,
+      37763,
+      37764
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157139,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-03T17:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      39506,
+      39507,
+      39508,
+      39509,
+      39510,
+      40318,
+      40319,
+      40320
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157702,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-03T17:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      39522,
+      39523,
+      39524,
+      39525,
+      39526,
+      40323,
+      40324,
+      40325
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 170566,
+    "name": "Lorana Core Tournament",
+    "date": "2025-08-05T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      41185,
+      41186,
+      41187
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157714,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-08-07T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      41869,
+      41870,
+      41871
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 174817,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-08-07T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      42498,
+      42499,
+      42500
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 168946,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-08-08T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      43172,
+      43173,
+      43174,
+      43175
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 158587,
+    "name": "Disney Lorcana Reign of Jafar - Set Championship",
+    "date": "2025-08-09T16:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      44728,
+      44729,
+      44730,
+      44731,
+      45795,
+      45796
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 167100,
+    "name": "Reign of Jafar - Set Championship at Vinny Spade Games",
+    "date": "2025-08-09T18:00:00+00:00",
+    "store_name": "Emmy Ace Game & Hobby Shop",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      45404,
+      45405,
+      45406
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157740,
+    "name": "Saturday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-09T18:00:00+00:00",
+    "store_name": "Dreamers Vault Games South Saint Paul",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      45374,
+      45375,
+      45376
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 165846,
+    "name": "Lorcana Reign of Jafar Set Championship",
+    "date": "2025-08-09T18:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      45301,
+      45302,
+      45303
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 175748,
+    "name": "Sunday Morning Weekly Play (Constructed)",
+    "date": "2025-08-10T16:00:00+00:00",
+    "store_name": "Dreamers Vault Games Champlin",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      47641,
+      47642,
+      47643
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 163410,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-10T17:00:00+00:00",
+    "store_name": "Fan Zone, Inc. - Willmar",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      47896,
+      47897,
+      47898
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 173217,
+    "name": "Sunday Early Morning Reign of Jafar - Set Championship",
+    "date": "2025-08-10T18:00:00+00:00",
+    "store_name": "Elemental Games LLP",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      48022,
+      48023,
+      48024
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 157750,
+    "name": "Sunday Afternoon Reign of Jafar - Set Championship",
+    "date": "2025-08-10T18:00:00+00:00",
+    "store_name": "Dreamers Vault Games Champlin",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      48077,
+      48078,
+      48079,
+      48080,
+      48081,
+      48819,
+      48820,
+      48821
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 170567,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-08-12T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      49472,
+      49473,
+      49474
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 174300,
+    "name": "Solz Weekly Disney: Lorcana Local",
+    "date": "2025-08-13T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      50048,
+      50049,
+      50050
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 170624,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-08-14T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      50057,
+      50058,
+      50059
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 167877,
+    "name": "Weekly Lorcana August 15th",
+    "date": "2025-08-15T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      51094,
+      51095,
+      51096
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 168948,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-08-15T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      51134,
+      51135,
+      51136
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 159948,
+    "name": "Reign Of Jafar Win A Box!",
+    "date": "2025-08-17T17:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      52282,
+      52283,
+      52284,
+      52285
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 170627,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-08-21T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      53858,
+      53859,
+      53860
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 179439,
+    "name": "Lorcana Locals - Bunker Gaming MN",
+    "date": "2025-08-21T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      54450,
+      54451,
+      54452
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 167878,
+    "name": "Weekly Lorcana August 22nd",
+    "date": "2025-08-22T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      55042,
+      55043,
+      55044
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 168949,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-08-22T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      55079,
+      55080,
+      55081
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 179692,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-08-22T23:30:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      55030,
+      55031,
+      55032
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 180073,
+    "name": "DLA Sat - Chaos Sealed",
+    "date": "2025-08-23T19:30:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      55738,
+      55739,
+      55740,
+      55741
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 180232,
+    "name": "[CANCELED] DLA Sat - Chaos Draft (NEW)",
+    "date": "2025-08-23T22:30:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      55860,
+      55861
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 180265,
+    "name": "DLA Sat - Chaos Draft 3",
+    "date": "2025-08-23T23:00:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      55885,
+      55886,
+      55887
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 180373,
+    "name": "DLA Sun - Chaos Sealed",
+    "date": "2025-08-24T15:30:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      56241,
+      56242,
+      56243,
+      56244
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 180381,
+    "name": "DLA Sun - Cube",
+    "date": "2025-08-24T15:30:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      56230,
+      56231,
+      56232,
+      56233,
+      56234
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 180428,
+    "name": "DLA Sun - Chaos Draft",
+    "date": "2025-08-24T19:30:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      56457,
+      56458,
+      56459,
+      56460,
+      56461,
+      56462
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 170629,
+    "name": "Lorcana Win-A-Box (Constructed)",
+    "date": "2025-08-28T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      57719,
+      57720,
+      57721
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 182380,
+    "name": "8/28/25 Locals",
+    "date": "2025-08-28T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      58320,
+      58321,
+      58322
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 180769,
+    "name": "Friday Evening Fabled - Prerelease (Sealed)",
+    "date": "2025-08-29T23:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      60696,
+      60697,
+      60698,
+      60699,
+      60700
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 176479,
+    "name": "Lorcana Fabled Release Draft",
+    "date": "2025-08-29T23:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      61055,
+      61056,
+      61057,
+      61058,
+      61059,
+      61060
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 168950,
+    "name": "Fabled Sealed w/Krakenhits",
+    "date": "2025-08-29T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      61186,
+      61187,
+      61188
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 183044,
+    "name": "Friday Evening Fabled - Prerelease (Sealed)",
+    "date": "2025-08-29T23:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      60917,
+      60918,
+      60919,
+      60920
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 174272,
+    "name": "Friday Evening Prerelease (Sealed)",
+    "date": "2025-08-29T23:30:00+00:00",
+    "store_name": "The Dork Den Inc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      61089,
+      61090,
+      61091,
+      61092
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 183137,
+    "name": "Gamers Row Fabled Sealed Event",
+    "date": "2025-08-30T20:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      64686,
+      64687,
+      64688,
+      64689,
+      64690
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 183523,
+    "name": "Lorcana Mixed Draft",
+    "date": "2025-08-30T20:30:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      64644,
+      64645,
+      64646
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 170632,
+    "name": "LCN Release Draft: Fabled",
+    "date": "2025-08-31T20:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      67060,
+      67061,
+      67062,
+      67063,
+      67064
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 183984,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2025-08-31T23:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      67367,
+      67368,
+      67369
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 184913,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-02T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      68550,
+      68551,
+      68552
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185498,
+    "name": "Solz - Disney Lorcana - Fabled Release Event(Sealed)",
+    "date": "2025-09-03T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      69505,
+      69506,
+      69507
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 170633,
+    "name": "LCN Release Draft: Fabled",
+    "date": "2025-09-04T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      69512,
+      69513,
+      69514,
+      69515,
+      69516
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 186518,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-09-04T23:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      70500,
+      70501,
+      70502
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 176060,
+    "name": "Weekly Lorcana September 5th",
+    "date": "2025-09-05T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      71588,
+      71589,
+      71590
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 187176,
+    "name": "Friday Evening Prerelease (Sealed)",
+    "date": "2025-09-05T23:00:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      71680,
+      71681,
+      71682,
+      71683
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 168951,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-09-05T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      71699,
+      71700,
+      71701,
+      71702
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 187432,
+    "name": "Friday Evening Weekly Play (Sealed)",
+    "date": "2025-09-05T23:30:00+00:00",
+    "store_name": "Dreamers Vault Games Champlin",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      71709,
+      71710,
+      71711,
+      71712,
+      71713
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 184984,
+    "name": "Saturday League 1v1",
+    "date": "2025-09-06T22:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      73342,
+      73343,
+      73344
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 188264,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-09-06T22:30:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      73356,
+      73357,
+      73358
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185202,
+    "name": "The Forge Sunday Night Constructed",
+    "date": "2025-09-07T23:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      74538,
+      74539,
+      74540
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 189875,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-09T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      75584,
+      75585,
+      75586
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185505,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-09-10T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      76495,
+      76496,
+      76497
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 170628,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-11T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      76523,
+      76524,
+      76525,
+      76526
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 191073,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-09-12T00:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      77451,
+      77452,
+      77453
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 191070,
+    "name": "Lorcana Locals",
+    "date": "2025-09-12T00:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      77435,
+      77436,
+      77437
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 176062,
+    "name": "Fabled Sealed September 12th",
+    "date": "2025-09-12T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      78467,
+      78468,
+      78469,
+      78470
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 191986,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-09-12T23:00:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      78336,
+      78337,
+      78338
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 187651,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-09-12T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      78454,
+      78455,
+      78456
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 188540,
+    "name": "Saturday Evening Weekly Play (Standard)",
+    "date": "2025-09-13T22:15:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      79812,
+      79813,
+      79814
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 192555,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-09-13T23:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      79893,
+      79894,
+      79895
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 186884,
+    "name": "Sunday Afternoon - Fabled SEALED Event",
+    "date": "2025-09-14T18:00:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      80639,
+      80640,
+      80641,
+      80642
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185366,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-09-14T23:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      80916,
+      80917,
+      80918
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 196629,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-16T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      82061,
+      82062,
+      82063
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185507,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-09-17T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      82916,
+      82917,
+      82918
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 190842,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-18T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      82940,
+      82941,
+      82942
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 198813,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-09-19T00:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      83840,
+      83841,
+      83842
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 192000,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-09-19T23:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      84801,
+      84802,
+      84803
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 176065,
+    "name": "September 19th Lorcana",
+    "date": "2025-09-19T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      84661,
+      84662,
+      84663
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 187654,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-09-19T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      84742,
+      84743,
+      84744
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 200322,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-09-20T23:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      86039,
+      86040,
+      86041
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185367,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-09-21T23:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      87103,
+      87104,
+      87105
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 178197,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-09-23T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      88140,
+      88141,
+      88142
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 201971,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-09-24T00:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      88180,
+      88181,
+      88182
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185511,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-09-24T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      89048,
+      89049,
+      89050
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 190843,
+    "name": "Lorcana Win-A-Box",
+    "date": "2025-09-25T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      89067,
+      89068,
+      89069
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 203985,
+    "name": "Lorcana Locals",
+    "date": "2025-09-25T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      89986,
+      89987,
+      89988
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 192001,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-09-26T23:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      90944,
+      90945,
+      90946
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 176066,
+    "name": "September 26th Lorcana",
+    "date": "2025-09-26T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      90918,
+      90919,
+      90920,
+      90921
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 187657,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-09-26T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      90990,
+      90991,
+      90992
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 198835,
+    "name": "Lorcana Fabled Draft",
+    "date": "2025-09-27T06:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      92068,
+      92069,
+      92070,
+      92071,
+      92072
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 205194,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "date": "2025-09-27T17:00:00+00:00",
+    "store_name": "Sneak Attack's Games",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      91964,
+      91965,
+      91966,
+      91967
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 192906,
+    "name": "Saturday Evening Constructed (Standard)",
+    "date": "2025-09-27T22:15:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      92374,
+      92375,
+      92376
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185369,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-09-28T23:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      93523,
+      93524,
+      93525
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 178198,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-09-30T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      94506,
+      94507,
+      94508
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 208131,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-01T00:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      94548,
+      94549,
+      94550
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 190845,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-02T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      95507,
+      95508,
+      95509
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 210868,
+    "name": "Lorcana Locals",
+    "date": "2025-10-02T23:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      96647,
+      96648,
+      96649
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 192541,
+    "name": "Weekly Lorcana October 3rd",
+    "date": "2025-10-03T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      97665,
+      97666,
+      97667
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 208152,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-10-03T23:00:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      97633,
+      97634,
+      97635
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 187659,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-10-03T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      97726,
+      97727,
+      97728
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 198931,
+    "name": "JJ Fabled Championship",
+    "date": "2025-10-04T17:00:00+00:00",
+    "store_name": "Jimmy Jams",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      98853,
+      98854,
+      98855,
+      98856,
+      99606,
+      99607
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 204166,
+    "name": "Fabled - Set Championship Lewis Game Shop",
+    "date": "2025-10-04T19:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      99342,
+      99343,
+      99344,
+      99345,
+      99346,
+      99884,
+      99885,
+      99886
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 212354,
+    "name": "Tournament TIme!",
+    "date": "2025-10-04T23:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      99861,
+      99862,
+      99863
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 189042,
+    "name": "The Forge's Fabled - Set Championship",
+    "date": "2025-10-05T18:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      101236,
+      101237,
+      101238,
+      101239,
+      101240,
+      101831,
+      101832,
+      101833
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 216197,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-10-07T23:30:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      102783,
+      102784,
+      102785
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 205440,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2025-10-08T00:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      102883
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185516,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-10-08T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      103591,
+      103592,
+      103593
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 190849,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-09T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      103628,
+      103629,
+      103630
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 217660,
+    "name": "Thursday Lumineers",
+    "date": "2025-10-09T23:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      104800,
+      104801,
+      104802
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 218617,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-10-09T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      104788,
+      104789,
+      104790
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 192813,
+    "name": "Weekly Lorcana Oct 10th",
+    "date": "2025-10-10T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      105911,
+      105912,
+      105913
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 218742,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-10-10T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      105952,
+      105953,
+      105954
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 191900,
+    "name": "The Dork Den Fabled - Set Championship",
+    "date": "2025-10-11T16:00:00+00:00",
+    "store_name": "The Dork Den Inc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      108139,
+      108140,
+      108141,
+      108142,
+      108143,
+      109287,
+      109288,
+      109289
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 202785,
+    "name": "Saturday Afternoon Fabled - Set Championship",
+    "date": "2025-10-11T17:00:00+00:00",
+    "store_name": "Sneak Attack's Games",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      108370,
+      108371,
+      108372
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 220011,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-10-11T23:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      109755,
+      109756,
+      109757
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 192880,
+    "name": "Sunday Morning Fabled - Set Championship",
+    "date": "2025-10-12T16:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      111473,
+      111474,
+      111475,
+      111476,
+      112324,
+      112325
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 183582,
+    "name": "Sunday Morning Fabled - Set Championship",
+    "date": "2025-10-12T16:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      111519,
+      111520,
+      111521,
+      111522,
+      111523,
+      112499,
+      112500,
+      112501
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 182301,
+    "name": "Fabled - Set Championship",
+    "date": "2025-10-12T17:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      111751,
+      111752,
+      111753
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 187298,
+    "name": "Sunday Afternoon Fabled - Set Championship",
+    "date": "2025-10-12T18:00:00+00:00",
+    "store_name": "Dreamers Vault Games (Minneapolis)",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      111917,
+      111918,
+      111919,
+      111920,
+      112606,
+      112607
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 220632,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "date": "2025-10-12T20:00:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      112437,
+      112438,
+      112439,
+      112773
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 184110,
+    "name": "The Forge Sunday Night Constructed",
+    "date": "2025-10-12T23:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      112763,
+      112764,
+      112765
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 200709,
+    "name": "Sunday Evening Fabled - Set Championship",
+    "date": "2025-10-12T23:00:00+00:00",
+    "store_name": "SLIVER KING GAMES",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      112768,
+      112769,
+      112770,
+      112771,
+      112772,
+      112965,
+      112966,
+      112967
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 206833,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-10-14T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      114494,
+      114495,
+      114496
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185517,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-10-15T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      115692,
+      115693,
+      115694
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 190851,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-16T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      115722,
+      115723,
+      115724
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 227698,
+    "name": "Lorcana Locals",
+    "date": "2025-10-17T00:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      116689,
+      116690,
+      116691
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 218743,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-10-17T21:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      117773,
+      117774,
+      117775
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 199478,
+    "name": "Weekly Lorcana October 17th",
+    "date": "2025-10-17T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      117695,
+      117696,
+      117697
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 187297,
+    "name": "Saturday Morning Fabled - Set Championship",
+    "date": "2025-10-18T16:00:00+00:00",
+    "store_name": "Dreamers Vault Games (St Louis Park)",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      119977,
+      119978,
+      119979,
+      119980,
+      121215,
+      121216
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 203155,
+    "name": "Set Championships (Fabled) w/Krakenhits",
+    "date": "2025-10-18T17:00:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      120354,
+      120355,
+      120356,
+      120357,
+      120358,
+      121664,
+      121665,
+      121666
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 196702,
+    "name": "Lorcana Fabled Store Championship",
+    "date": "2025-10-18T18:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      120567,
+      120568,
+      120569,
+      120570,
+      120571,
+      121756,
+      121757,
+      121758
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 206120,
+    "name": "GameZenter Disney Lorcana Fabled - Set Championship",
+    "date": "2025-10-18T19:00:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      120951,
+      120952,
+      120953,
+      120954,
+      121816,
+      121817
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 199368,
+    "name": "Sunday Afternoon Fabled - Set Championship",
+    "date": "2025-10-19T17:00:00+00:00",
+    "store_name": "Fan Zone, Inc. - Willmar",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      124322,
+      124323,
+      124324
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 211659,
+    "name": "Sunday Afternoon Fabled - Set Championship",
+    "date": "2025-10-19T17:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      124062,
+      124063,
+      124064,
+      124065,
+      125277,
+      125278
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 209630,
+    "name": "Lorcana Fabled Store Championship",
+    "date": "2025-10-19T18:00:00+00:00",
+    "store_name": "Atlantis Hobby Owatonna",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      124556,
+      124557,
+      124558,
+      124559,
+      125445,
+      125446
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 187300,
+    "name": "Sunday Afternoon Fabled - Set Championship",
+    "date": "2025-10-19T18:00:00+00:00",
+    "store_name": "Dreamers Vault Games Champlin",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      124441,
+      124442,
+      124443,
+      124444,
+      125242,
+      125243
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 206433,
+    "name": "Sunday Afternoon Fabled - Set Championship",
+    "date": "2025-10-19T18:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      124478,
+      124479,
+      124480
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 206834,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-10-21T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      127279,
+      127280,
+      127281
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 237617,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-21T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      127311,
+      127312,
+      127313
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 205442,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2025-10-22T00:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      127350
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 190852,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-10-23T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      128465,
+      128466,
+      128467
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 239728,
+    "name": "Lorcana Locals",
+    "date": "2025-10-23T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      129645,
+      129646,
+      129647
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 187302,
+    "name": "Saturday Morning Fabled - Set Championship",
+    "date": "2025-10-25T16:00:00+00:00",
+    "store_name": "Dreamers Vault Games South Saint Paul",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      132941,
+      132942,
+      132943
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 217639,
+    "name": "Solz - Disney: Lorcana - Fabled - Set Championship",
+    "date": "2025-10-25T16:00:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      132922,
+      132923,
+      132924,
+      132925,
+      133673,
+      133674
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 218096,
+    "name": "Saturday Afternoon Fabled - Set Championship",
+    "date": "2025-10-25T17:00:00+00:00",
+    "store_name": "John's Total Entertainment",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      133199,
+      133200,
+      133201,
+      133587,
+      133588,
+      133589
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 205833,
+    "name": "Saturday Afternoon Fabled - Set Championship",
+    "date": "2025-10-25T18:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      133356,
+      133357,
+      133358
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 198841,
+    "name": "Lorcana Fabled Set Championship",
+    "date": "2025-10-25T18:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      133375,
+      133376,
+      133377,
+      133981
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 201159,
+    "name": "Fabled Store Championship",
+    "date": "2025-10-26T18:00:00+00:00",
+    "store_name": "Elemental Games LLP",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      136233,
+      136234,
+      136235,
+      136236,
+      136986,
+      136987
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 206837,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-10-28T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      138562,
+      138563,
+      138564
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 205444,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2025-10-29T00:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      138621
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185521,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-10-29T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      139280,
+      139281,
+      139282
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 190855,
+    "name": "Lorcana Win-A-Box",
+    "date": "2025-10-30T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      139311,
+      139312,
+      139313
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 247123,
+    "name": "Championship",
+    "date": "2025-11-01T17:30:00+00:00",
+    "store_name": "Emmy Ace Game & Hobby Shop",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      145670
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 247223,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "date": "2025-11-01T19:30:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      146314,
+      146315,
+      146316
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185381,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-11-03T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      150651,
+      150652,
+      150653
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 243186,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-11-05T00:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      153020,
+      153021,
+      153022
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 249308,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-11-05T01:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      153259
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 251253,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-11-05T01:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      153148,
+      153149,
+      153150
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 252579,
+    "name": "Solz Weekly Disney: Lorcana Local",
+    "date": "2025-11-06T00:45:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      154881,
+      154882,
+      154883
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 225190,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "date": "2025-11-06T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      154977,
+      154978,
+      154979
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 253907,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2025-11-07T00:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      157012,
+      157013,
+      157014
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 241629,
+    "name": "Friday Evening Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-08T00:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      162267,
+      162268,
+      162269,
+      162270
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 217044,
+    "name": "Whispers in the Well Release Draft",
+    "date": "2025-11-08T00:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      162885,
+      162886,
+      162887,
+      162888,
+      162889,
+      162890
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 227401,
+    "name": "Whisper in The Well Prerelease Sealed",
+    "date": "2025-11-08T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      161841,
+      161842,
+      161843,
+      161844
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 253586,
+    "name": "Friday Evening Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-08T00:00:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      162052,
+      162053,
+      162054,
+      162055,
+      162056
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 248524,
+    "name": "Whispers in the Well (SEALED) w/Krakenhits",
+    "date": "2025-11-08T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      162846,
+      162847,
+      162848
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 249624,
+    "name": "Disney Lorcana Prerelease at Games by James",
+    "date": "2025-11-08T07:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      168365
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 223267,
+    "name": "Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-08T18:00:00+00:00",
+    "store_name": "Sneak Attack's Games",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      167796,
+      167797,
+      167798,
+      167799,
+      167800
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 250157,
+    "name": "Saturday Afternoon Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-08T20:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      168597,
+      168598,
+      168599,
+      168600,
+      168601
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 256020,
+    "name": "Saturday Evening Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-09T00:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      170233,
+      170234,
+      170235,
+      170236,
+      170237
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 255286,
+    "name": "Sunday Afternoon Whispers in the Well - Prerelease (Sealed)",
+    "date": "2025-11-09T18:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      172937,
+      172938,
+      172939,
+      172940,
+      172941
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185382,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2025-11-10T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      174821,
+      174822,
+      174823
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 243187,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-11-12T00:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      178373,
+      178374,
+      178375
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 249311,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-11-12T01:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      178564
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 225182,
+    "name": "LCN PreRelease Pack Rush: Whispers in the Well",
+    "date": "2025-11-12T18:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      181438
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 261393,
+    "name": "Wednesday Weekly Constructed",
+    "date": "2025-11-13T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      181250,
+      181251,
+      181252
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 261431,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-11-13T01:00:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      181134,
+      181135,
+      181136
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 263022,
+    "name": "Thursday Night Lorcana Locals",
+    "date": "2025-11-14T00:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      184039,
+      184040,
+      184041
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 263147,
+    "name": "Thursday Evening Unstructured / Player List Only",
+    "date": "2025-11-14T01:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      184387
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 264328,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-11-15T00:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      187268,
+      187269,
+      187270
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 227419,
+    "name": "Whispers In The Well Sealed Nov 14th",
+    "date": "2025-11-15T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      187352,
+      187353,
+      187354,
+      187355
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 262217,
+    "name": "Friday Evening Weekly Play (Sealed)",
+    "date": "2025-11-15T00:00:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      187334,
+      187335,
+      187336,
+      187337
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 260020,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-11-15T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      187304,
+      187305,
+      187306
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 264532,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "date": "2025-11-15T17:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      189659,
+      189660,
+      189661
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 205437,
+    "name": "Saturday League 1v1",
+    "date": "2025-11-15T23:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      191322,
+      191323,
+      191324
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 243188,
+    "name": "Lorcana Core Tournament",
+    "date": "2025-11-19T00:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      197943,
+      197944,
+      197945
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 269376,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-11-19T00:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      198004,
+      198005,
+      198006
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 249313,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-11-19T01:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      198215
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 271843,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-11-20T00:35:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      200598,
+      200599,
+      200600
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 225188,
+    "name": "LCN Release Draft: Whispers in the Well",
+    "date": "2025-11-20T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      200726,
+      200727,
+      200728,
+      200729,
+      200730
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 274242,
+    "name": "Thursday Evening Unstructured / Player List Only",
+    "date": "2025-11-21T00:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      203439
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 276333,
+    "name": "Friday Afternoon Unstructured / Player List Only",
+    "date": "2025-11-21T22:30:00+00:00",
+    "store_name": "Emmy Ace Game & Hobby Shop",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      205863
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 233841,
+    "name": "Weekly Lorcana Nov 21st",
+    "date": "2025-11-22T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      206534,
+      206535,
+      206536
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 276700,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-11-22T00:30:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      206833,
+      206834,
+      206835
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 218747,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-11-22T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      206896,
+      206897,
+      206898,
+      206899
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 272854,
+    "name": "Friday Night Weekly Play (Constructed)",
+    "date": "2025-11-22T00:30:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      206746,
+      206747,
+      206748
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 277570,
+    "name": "Saturday Morning Weekly Play (Constructed)",
+    "date": "2025-11-22T17:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      209616,
+      209617,
+      209618
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 277778,
+    "name": "Disney Lorcana Whispers in the Well Draft",
+    "date": "2025-11-22T19:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      210270,
+      210271,
+      210272,
+      210273,
+      210274
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 265513,
+    "name": "Lorcana 1v1 Core Constructed",
+    "date": "2025-11-22T23:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      211285,
+      211286,
+      211287
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 278315,
+    "name": "Solz Saturday Night Lorcana Local",
+    "date": "2025-11-23T00:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      211730,
+      211731,
+      211732
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 257187,
+    "name": "Sunday Afternoon Weekly Play (Draft)",
+    "date": "2025-11-23T18:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      213501,
+      213502,
+      213503,
+      213504,
+      213505
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 266428,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2025-11-24T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      194601,
+      194602,
+      194603
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185387,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2025-11-24T00:30:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      214913,
+      214914,
+      214915,
+      214916
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 265508,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-11-26T00:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      219754
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 283967,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-11-27T00:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      220973,
+      220974,
+      220975
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 225193,
+    "name": "Lorcana Win-A-Box",
+    "date": "2025-11-27T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      221044,
+      221045,
+      221046,
+      221047
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 263116,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-11-29T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      225874,
+      225875,
+      225876,
+      225877
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 265509,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-12-03T00:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      238077
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292086,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-12-03T01:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      237964,
+      237965,
+      237966
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 294948,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-12-04T00:45:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      240570,
+      240571,
+      240572
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 225191,
+    "name": "Wednesday Lorcana",
+    "date": "2025-12-04T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      240647,
+      240648,
+      240649
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 286869,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-12-06T00:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      246314,
+      246315,
+      246316
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 235613,
+    "name": "Weekly Lorcana Dec 5th",
+    "date": "2025-12-06T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      246333,
+      246334,
+      246335
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 263119,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-12-06T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      246680,
+      246681,
+      246682
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 291707,
+    "name": "Saturday Morning Weekly Play (Constructed)",
+    "date": "2025-12-06T17:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      249994,
+      249995,
+      249996
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 265515,
+    "name": "Lorcana 1v1 Core Constructed",
+    "date": "2025-12-06T23:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      252230,
+      252231,
+      252232
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 299418,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-12-07T00:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      252763,
+      252764,
+      252765
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 296343,
+    "name": "Sunday Afternoon Weekly Play (Draft)",
+    "date": "2025-12-07T18:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      255251,
+      255252,
+      255253,
+      255254,
+      255255
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185405,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-12-08T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      256859,
+      256860,
+      256861
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 225192,
+    "name": "Wednesday Lorcana",
+    "date": "2025-12-11T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      263036,
+      263037,
+      263038
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 279074,
+    "name": "Friday Evening Infinity Weekend Constructed Event",
+    "date": "2025-12-13T00:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      277136,
+      277137,
+      277138
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 275737,
+    "name": "Lorcana Infinity Constructed Weekend",
+    "date": "2025-12-13T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      269367,
+      269368,
+      269369
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292212,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-12-13T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      269429,
+      269430,
+      269431
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 271133,
+    "name": "Friday Evening Infinity Weekend Constructed Event",
+    "date": "2025-12-13T00:30:00+00:00",
+    "store_name": "The Dork Den Inc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      269460,
+      269461,
+      269462
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 290804,
+    "name": "Rochester Coulee Infinity Weekend Constructed Event",
+    "date": "2025-12-13T01:00:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      269307,
+      269308,
+      269309
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 287109,
+    "name": "Saturday Morning Infinity Weekend Constructed Event",
+    "date": "2025-12-13T17:30:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      273790,
+      273791,
+      273792
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 262717,
+    "name": "Infinity Weekend Constructed Event",
+    "date": "2025-12-13T18:00:00+00:00",
+    "store_name": "Sneak Attack's Games",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      274167,
+      274168,
+      274169
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292462,
+    "name": "Lorcana Infinity Weekend Constructed",
+    "date": "2025-12-13T19:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      275031,
+      275032,
+      275033
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 263017,
+    "name": "Infinity Weekend w/Krakenhits",
+    "date": "2025-12-13T19:00:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      274919,
+      274920,
+      274921,
+      274922,
+      274923
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 278133,
+    "name": "Disney Lorcana Infinity Weekend Event",
+    "date": "2025-12-13T19:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      275040,
+      275041,
+      275042
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 303821,
+    "name": "Enchanted Elsa Tournament!",
+    "date": "2025-12-13T19:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      275050,
+      275051,
+      275052,
+      275053
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 205435,
+    "name": "Lorcana Saturday Night 1v1",
+    "date": "2025-12-13T23:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      277100,
+      277101,
+      277102
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 306835,
+    "name": "Infinity Weekend",
+    "date": "2025-12-14T00:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      277589,
+      277590,
+      277591
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 262421,
+    "name": "To Infinity And Beyond!!!!",
+    "date": "2025-12-14T00:55:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      277485,
+      277486,
+      277487
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 286740,
+    "name": "Sunday Afternoon Infinity Weekend Constructed Win a Box!",
+    "date": "2025-12-14T18:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      281486,
+      281487,
+      281488
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 296349,
+    "name": "Sunday Afternoon Infinity Weekend Constructed Event",
+    "date": "2025-12-14T18:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      281194,
+      281195,
+      281196
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 290592,
+    "name": "Sunday Afternoon Infinity Weekend Constructed Event",
+    "date": "2025-12-14T19:00:00+00:00",
+    "store_name": "Elemental Games LLP",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      281678,
+      281679,
+      281680
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 280400,
+    "name": "LCN: Infinity Weekend",
+    "date": "2025-12-14T21:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      282591,
+      282592,
+      282593
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185406,
+    "name": "The Forge Weekly Constructed",
+    "date": "2025-12-15T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      283279,
+      283280,
+      283281
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 309460,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "date": "2025-12-17T00:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      286907,
+      286908,
+      286909
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 309337,
+    "name": "Lorcana Tuesday Multi-player",
+    "date": "2025-12-17T01:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      482732
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 278148,
+    "name": "Wednesday Lorcana",
+    "date": "2025-12-18T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      289481,
+      289482,
+      289483
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 310363,
+    "name": "Solz - Disney Lorcana - Weekly Local",
+    "date": "2025-12-18T01:00:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      289394,
+      289395,
+      289396
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 275870,
+    "name": "Weekly Lorcana Dec 19th Sealed",
+    "date": "2025-12-20T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      294820,
+      294821,
+      294822,
+      294823
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 312292,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-12-20T00:30:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      294885,
+      294886,
+      294887
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292362,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2025-12-20T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      294964,
+      294965,
+      294966,
+      294967
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 291723,
+    "name": "Saturday Morning Weekly Play (Constructed)",
+    "date": "2025-12-20T17:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      298024,
+      298025,
+      298026
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 313008,
+    "name": "Lorcana Tournament",
+    "date": "2025-12-20T19:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      298647,
+      298648,
+      298649
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 313303,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-12-21T00:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      300443,
+      300444,
+      300445
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 307279,
+    "name": "Chaos Sealed - Sunday Afternoon (Sealed)",
+    "date": "2025-12-21T18:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      302629,
+      302630,
+      302631,
+      302632,
+      302633
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292095,
+    "name": "Lorcana Core",
+    "date": "2025-12-24T00:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      306887,
+      306888,
+      306889
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 316750,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2025-12-27T00:30:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      309011,
+      309012,
+      309013
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292366,
+    "name": "Friday Night Locana w/Krakenhits",
+    "date": "2025-12-27T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      309049,
+      309050,
+      309051,
+      309052
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 291726,
+    "name": "Saturday Morning Weekly Play (Constructed)",
+    "date": "2025-12-27T17:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      311069,
+      311070,
+      311071
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 317863,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2025-12-28T00:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      312765,
+      312766,
+      312767
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292100,
+    "name": "Lorcana Core",
+    "date": "2025-12-31T00:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      318170,
+      318171,
+      318172
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 312347,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2025-12-31T01:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      318427
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 278150,
+    "name": "Wednesday Lorcana",
+    "date": "2026-01-01T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      319204,
+      319205,
+      319206
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 322148,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2026-01-02T01:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      319833,
+      319834,
+      319835
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 311555,
+    "name": "Weekly Lorcana Jan 2nd",
+    "date": "2026-01-03T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      321867,
+      321868,
+      321869
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292371,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-01-03T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      322087,
+      322088,
+      322089
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 271885,
+    "name": "Saturday Morning Whispers in the Well - Set Championship",
+    "date": "2026-01-03T17:00:00+00:00",
+    "store_name": "Dreamers Vault Games (St Louis Park)",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      325227,
+      325228,
+      325229,
+      325230,
+      325231,
+      327418,
+      327419,
+      327420
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 269212,
+    "name": "Whispers in the Well - Set Championship",
+    "date": "2026-01-03T18:00:00+00:00",
+    "store_name": "Sneak Attack's Games",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      325580,
+      325581,
+      325583,
+      325584,
+      325784,
+      327833,
+      327834
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 288048,
+    "name": "Lorcana Whispers in the Well Set Championship",
+    "date": "2026-01-03T19:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      326031,
+      326032,
+      326033,
+      326034,
+      327619,
+      327620
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 289315,
+    "name": "Saturday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-03T20:00:00+00:00",
+    "store_name": "SLIVER KING GAMES",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      326554,
+      326555,
+      326556
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 324654,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2026-01-04T00:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      328129,
+      328130,
+      328131
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 288050,
+    "name": "Lorcana Whispers in the Well Set Championship",
+    "date": "2026-01-04T18:00:00+00:00",
+    "store_name": "Atlantis Hobby Owatonna",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      330617,
+      330618,
+      330619,
+      330620
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 327027,
+    "name": "Lorcana Core Tournament",
+    "date": "2026-01-07T00:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      335374,
+      335375,
+      335376
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 312350,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2026-01-07T01:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      335526
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 313140,
+    "name": "Wednesday Lorcana",
+    "date": "2026-01-08T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      337790,
+      337791,
+      337792
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 330989,
+    "name": "Lorcana Locals",
+    "date": "2026-01-09T00:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      340110,
+      340111,
+      340112
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 311556,
+    "name": "Weekly Lorcana Jan 9th",
+    "date": "2026-01-10T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      342900,
+      342901,
+      342902
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 332032,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2026-01-10T00:30:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      342988,
+      342989,
+      342990
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292374,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-01-10T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      343057,
+      343058,
+      343059
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 277922,
+    "name": "JJ Whispers in the Well - Set Championship",
+    "date": "2026-01-10T18:00:00+00:00",
+    "store_name": "Jimmy Jams",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      347806,
+      347807,
+      347808
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 275733,
+    "name": "LGS Lorcana Whispers in the Well - Set Championship",
+    "date": "2026-01-10T19:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      348374,
+      348375,
+      348376,
+      348377,
+      348378,
+      350480,
+      350481,
+      350482
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 268875,
+    "name": "Sunday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-11T18:00:00+00:00",
+    "store_name": "Fan Zone, Inc. - Willmar",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      354162,
+      354163,
+      354164
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 255315,
+    "name": "The Forge's Whispers in the Well - Set Championship",
+    "date": "2026-01-11T19:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      354317,
+      354318,
+      354319,
+      355350,
+      355351,
+      355352
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 271889,
+    "name": "Sunday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-11T19:00:00+00:00",
+    "store_name": "Dreamers Vault Games Champlin",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      354438,
+      354439,
+      354440,
+      354441,
+      355642,
+      355643
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 185408,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-01-12T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      355779,
+      355780,
+      355781
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 282146,
+    "name": "Sunday Evening Whispers in the Well - Set Championship",
+    "date": "2026-01-12T00:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      355773,
+      355774,
+      355775,
+      355776,
+      356544,
+      356545
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 327029,
+    "name": "Lorcana Core Tournament",
+    "date": "2026-01-14T00:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      358868,
+      358869,
+      358870
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 312351,
+    "name": "Lorcana Tuesday Multi-Player",
+    "date": "2026-01-14T01:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      359080
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 313142,
+    "name": "Wednesday Lorcana",
+    "date": "2026-01-15T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      361378,
+      361379,
+      361380
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 337662,
+    "name": "Thursday Evening Unstructured / Player List Only",
+    "date": "2026-01-16T00:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      364238
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292382,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-01-17T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      366411,
+      366412,
+      366413
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 305655,
+    "name": "Saturday Morning Whispers in the Well - Set Championship",
+    "date": "2026-01-17T17:00:00+00:00",
+    "store_name": "The Dork Den Inc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      369714,
+      369715,
+      369716,
+      369717,
+      371845,
+      371846
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 338651,
+    "name": "Solz Gaming & Collectibles - Whispers in the Well - Set Championship",
+    "date": "2026-01-17T18:00:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      370398,
+      370399,
+      370400
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 278266,
+    "name": "Whispers in the Well Set Championship",
+    "date": "2026-01-17T19:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      370811,
+      370812,
+      370813,
+      370814,
+      372142,
+      372143
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 276817,
+    "name": "Whispers in the Well Set Championship w/Krakenhits",
+    "date": "2026-01-17T20:00:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      371215,
+      371216,
+      371217,
+      371218,
+      372617,
+      372618
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 326567,
+    "name": "Whispers in the Well - Set Championship",
+    "date": "2026-01-17T20:00:00+00:00",
+    "store_name": "John's Total Entertainment",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      371260,
+      371261,
+      371262,
+      371263,
+      372466,
+      372467
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 307594,
+    "name": "Saturday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-17T21:00:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      371604,
+      371605,
+      371606,
+      371607,
+      372740,
+      372741
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 274476,
+    "name": "Set Championship",
+    "date": "2026-01-18T17:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      375347,
+      375348,
+      375349,
+      375350,
+      376798,
+      376799
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 286850,
+    "name": "Sunday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-18T18:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      375695,
+      375696,
+      375697,
+      375698,
+      377213,
+      377214
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 290507,
+    "name": "Rochester Coulee Whispers Set Champs",
+    "date": "2026-01-18T19:00:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      376038,
+      376039,
+      376040
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 334247,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-01-19T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      377590,
+      377591,
+      377592
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 349149,
+    "name": "Solz: Disney Lorcana Weekly Local",
+    "date": "2026-01-22T00:45:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      383500,
+      383501,
+      383502
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 313147,
+    "name": "Wednesday Lorcana",
+    "date": "2026-01-22T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      383531,
+      383532,
+      383533
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292385,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-01-24T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      388291,
+      388292,
+      388293
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 330955,
+    "name": "Saturday Movie Theme Deck Day",
+    "date": "2026-01-24T17:30:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      392692,
+      392693,
+      392694
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 304424,
+    "name": "GZ Whispers in the Well - Set Championship",
+    "date": "2026-01-24T17:30:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      392197,
+      392198,
+      392199,
+      392200,
+      394619,
+      394620
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 351597,
+    "name": "Vinny Spade Games, Saturday 1pm CT Whispers in the Well - Set Championship, Paynesville MN",
+    "date": "2026-01-24T19:00:00+00:00",
+    "store_name": "Emmy Ace Game & Hobby Shop",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      393397,
+      393398,
+      393399,
+      393400,
+      394890,
+      394891
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 341755,
+    "name": "Whispers in the Well Set Championship",
+    "date": "2026-01-24T22:00:00+00:00",
+    "store_name": "Dreamers Vault Games South Saint Paul",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      394999,
+      395000,
+      395001
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 355325,
+    "name": "Saturday Evening Weekly Play (Constructed)",
+    "date": "2026-01-25T00:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      395625,
+      395626,
+      395627
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 313949,
+    "name": "Sunday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-25T18:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      398262,
+      398263,
+      398264,
+      398265,
+      399216,
+      399217
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 319460,
+    "name": "Sunday Afternoon Whispers in the Well - Set Championship",
+    "date": "2026-01-25T19:00:00+00:00",
+    "store_name": "Elemental Games LLP",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      398574,
+      398575,
+      398576
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 334255,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-01-26T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      399557,
+      399558,
+      399559
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 360480,
+    "name": "Lorcana Locals",
+    "date": "2026-01-28T01:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      402648,
+      402649,
+      402650
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 362748,
+    "name": "Solz Disney Lorcana Weekly Local",
+    "date": "2026-01-29T00:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      404775,
+      404776,
+      404777
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 313153,
+    "name": "Lorcana Win-A-Box",
+    "date": "2026-01-29T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      404792,
+      404793,
+      404794
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 365217,
+    "name": "Bunker Gaming Lorcana Locals",
+    "date": "2026-01-30T00:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      406943,
+      406944,
+      406945
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 367599,
+    "name": "Rochester Coulee January infinity event",
+    "date": "2026-01-31T00:15:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      409407,
+      409408,
+      409409
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292389,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-01-31T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      409577,
+      409578,
+      409579
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 367789,
+    "name": "Saturday Early Morning Weekly Play (Constructed)",
+    "date": "2026-01-31T01:30:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      409728,
+      409729,
+      409730
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 369350,
+    "name": "Sunday Early Morning Weekly Play (Constructed)",
+    "date": "2026-02-01T00:30:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      413769,
+      413770,
+      413771
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 357235,
+    "name": "Sunday Afternoon Weekly Play (Sealed)",
+    "date": "2026-02-01T18:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      415114,
+      415115,
+      415116,
+      415117,
+      415118
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 334258,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-02-02T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      416058,
+      416059,
+      416060
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 360380,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2026-02-04T01:30:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      418798
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 377477,
+    "name": "Solz Disney Lorcana Weekly Local",
+    "date": "2026-02-05T00:45:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      420904,
+      420905,
+      420906
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 337579,
+    "name": "Wednesday Lorcana",
+    "date": "2026-02-05T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      420955,
+      420956,
+      420957
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292391,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-02-07T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      428866,
+      428867,
+      428868
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 362815,
+    "name": "Illumineer's Quest - Palace Heist Event",
+    "date": "2026-02-07T07:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      471075
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 334259,
+    "name": "Theme Deck Night! (One Franchise Only!)",
+    "date": "2026-02-08T19:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      445270,
+      445271,
+      445272
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 385768,
+    "name": "Monday Night Weekly Play (Sealed)",
+    "date": "2026-02-09T21:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      448319,
+      448320,
+      448321,
+      448322
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 361827,
+    "name": "Illumineer Quest Palace Heist Demo",
+    "date": "2026-02-11T00:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      452401
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 388436,
+    "name": "Tuesday Locals",
+    "date": "2026-02-11T01:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      451213,
+      451214,
+      451215
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 368742,
+    "name": "Friday Night Winterspell Prerelease - Sealed",
+    "date": "2026-02-14T00:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      463380,
+      463381,
+      463382,
+      463383
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 360421,
+    "name": "Lorcana Winterspell Release Event",
+    "date": "2026-02-14T00:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      464087,
+      464088,
+      464089,
+      464090
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 337601,
+    "name": "Friday Evening Winterspell Prerelease - Sealed",
+    "date": "2026-02-14T00:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      464119,
+      464120,
+      464121,
+      464122,
+      464123
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 351568,
+    "name": "Winterspell Prerelease",
+    "date": "2026-02-14T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      464077,
+      464078,
+      464079,
+      464080
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 380963,
+    "name": "Roch-Coulee Winterspell prerelease sealed",
+    "date": "2026-02-14T00:00:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      463223,
+      463224,
+      463225,
+      463226,
+      463227
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292396,
+    "name": "WinterSpell Sealed PreRelease W/KrakenHits",
+    "date": "2026-02-14T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      464427,
+      464428,
+      464429,
+      464430,
+      464431,
+      464432
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 362558,
+    "name": "Solz Disney Lorcana: Winterspell Prerelease Event - Sealed",
+    "date": "2026-02-14T00:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      464064,
+      464065,
+      464066,
+      464067,
+      464068
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 362821,
+    "name": "Winterspell - Prerelease Event",
+    "date": "2026-02-14T07:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      471040,
+      471041,
+      471042,
+      471043
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 362941,
+    "name": "Whispers in the Well - Draft",
+    "date": "2026-02-14T07:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      412580,
+      412581,
+      412582,
+      412583,
+      412584
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 380550,
+    "name": "Satruday Morning Winterspell Pack Rush",
+    "date": "2026-02-14T17:30:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      468858,
+      468859,
+      468860,
+      468861,
+      468862
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 331693,
+    "name": "Saturday Afternoon Winterspell Prerelease - Pack Rush",
+    "date": "2026-02-14T18:00:00+00:00",
+    "store_name": "The Dork Den Inc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      469266,
+      469297,
+      469298,
+      469300
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 332251,
+    "name": "Saturday Afternoon Winterspell Prerelease - Sealed",
+    "date": "2026-02-14T18:00:00+00:00",
+    "store_name": "Sneak Attack's Games",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      469608,
+      469609,
+      469610,
+      469611
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 374317,
+    "name": "Saturday Winter spell pre-release",
+    "date": "2026-02-14T21:00:00+00:00",
+    "store_name": "Emmy Ace Game & Hobby Shop",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      470266,
+      470267,
+      470268,
+      470269
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 381527,
+    "name": "Sunday Afternoon Winterspell Prerelease - Sealed",
+    "date": "2026-02-15T18:30:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      475195,
+      475196,
+      475197,
+      475198,
+      475199
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 372921,
+    "name": "Sunday 1PM Winterspell Prerelease - Sealed",
+    "date": "2026-02-15T19:00:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      475760,
+      475761,
+      475762,
+      475763
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 360384,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2026-02-18T01:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      482724
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 337575,
+    "name": "LCN PreRelease Pack Rush: Winterspell",
+    "date": "2026-02-18T18:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      485919
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 403336,
+    "name": "Solz - Disney: Lorcana Weekly Local (Sealed)",
+    "date": "2026-02-19T00:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      485572,
+      485573,
+      485574,
+      485575
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 337583,
+    "name": "Wednesday  Lorcana",
+    "date": "2026-02-19T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      485431,
+      485432,
+      485433
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 407774,
+    "name": "Thursday Night Lorcana",
+    "date": "2026-02-20T00:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      488716,
+      488717,
+      488718
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 352867,
+    "name": "Weekly Lorcana Feb 20th",
+    "date": "2026-02-21T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      492471,
+      492472,
+      492473
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 410129,
+    "name": "Roch Coulee Feb infinity event",
+    "date": "2026-02-21T00:05:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      492387,
+      492388,
+      492389
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292398,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-02-21T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      492737,
+      492738,
+      492739,
+      492740
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 403304,
+    "name": "Winterspell BOX TOURNAMENT (Constructed)",
+    "date": "2026-02-21T17:30:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      495806,
+      495807,
+      495808,
+      495809,
+      497282,
+      497283
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 411800,
+    "name": "Saturday Night Weekly Play (Constructed)",
+    "date": "2026-02-21T22:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      497603,
+      497604,
+      497605,
+      497849
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 411921,
+    "name": "Sunday Early Morning Weekly Play (Constructed)",
+    "date": "2026-02-22T00:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      509566,
+      509567,
+      509568
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 407694,
+    "name": "Sunday Afternoon Weekly Play (Winterspell Draft)",
+    "date": "2026-02-22T18:30:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      500635,
+      500636,
+      500637,
+      500638,
+      500639,
+      500640
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 337576,
+    "name": "LCN Release Draft: Winterspell",
+    "date": "2026-02-22T23:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      502041,
+      502042,
+      502043,
+      502044,
+      502045
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 334267,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "date": "2026-02-23T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      502069,
+      502070,
+      502071
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 360386,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2026-02-25T01:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      506876
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 418785,
+    "name": "Solz - Disney Lorcana Local",
+    "date": "2026-02-26T00:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      509746,
+      509747,
+      509748
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 390408,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-02-26T00:50:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      454158,
+      454159,
+      454160
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 337578,
+    "name": "LCN Release Draft: Winterspell",
+    "date": "2026-02-26T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      509814,
+      509815,
+      509816,
+      509817,
+      509818,
+      509819
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 352874,
+    "name": "Weekly Lorcana Feb 27th",
+    "date": "2026-02-28T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      516459,
+      516460,
+      516461
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292404,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-02-28T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      516630,
+      516631,
+      516632,
+      516633,
+      516634
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 422814,
+    "name": "Rochester coulee Early Morning Weekly Play (Draft)",
+    "date": "2026-02-28T00:30:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      516525,
+      516526,
+      516527,
+      516528,
+      516529
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 424167,
+    "name": "Gamers Row Weekly Play Saturday 11:30AM",
+    "date": "2026-02-28T17:30:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      519647,
+      519648,
+      519649,
+      519650
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 396360,
+    "name": "Winterspell - Draft",
+    "date": "2026-02-28T19:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      520308,
+      520309,
+      520310,
+      520311,
+      520312
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 424483,
+    "name": "Saturday Weekly Constructed",
+    "date": "2026-02-28T21:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      520724,
+      520725,
+      520726
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 424587,
+    "name": "Saturday 1v1",
+    "date": "2026-02-28T23:15:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      521402,
+      521403,
+      521404
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 334268,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-03-02T00:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      525234,
+      525235,
+      525236,
+      525237
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 388483,
+    "name": "Lorcana Tuesday Multiplayer",
+    "date": "2026-03-04T01:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      555724
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 396221,
+    "name": "LCN Weekly Constructed",
+    "date": "2026-03-05T01:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      532791,
+      532792,
+      532793
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 434333,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-03-05T01:00:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      532736,
+      532737,
+      532738
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 436515,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "date": "2026-03-06T01:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      535855,
+      535856,
+      535857
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 406933,
+    "name": "March 6th Lorcana",
+    "date": "2026-03-07T00:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      539737,
+      539738,
+      539739
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 438210,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2026-03-07T00:30:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      539755,
+      539756,
+      539757
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292411,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-03-07T00:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      539929,
+      539930,
+      539931
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 435774,
+    "name": "Lorcana: Winterspell Sealed Event",
+    "date": "2026-03-07T18:00:00+00:00",
+    "store_name": "Dreamers Vault Games Champlin",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      544464,
+      544465,
+      544466,
+      544467,
+      544468
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 430767,
+    "name": "Sunday Afternoon Draft 3-8-26",
+    "date": "2026-03-08T16:30:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      549878,
+      549879,
+      549880,
+      549881,
+      549882
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 334269,
+    "name": "Sunday Evening Weekly Play (Constructed)",
+    "date": "2026-03-08T23:00:00+00:00",
+    "store_name": "The Forge",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      552174,
+      552175,
+      552176
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 430559,
+    "name": "Lorana Core Tournament",
+    "date": "2026-03-10T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      556423,
+      556424,
+      556425
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 448141,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-03-11T23:50:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      559671,
+      559672,
+      559673
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 396223,
+    "name": "LCN Weekly Constructed",
+    "date": "2026-03-12T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      559745,
+      559746,
+      559747
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 406938,
+    "name": "Weekly Lorcana March 13th Sealed",
+    "date": "2026-03-13T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      567119,
+      567120,
+      567121,
+      567122
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292416,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-03-13T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      566990,
+      566991,
+      566992
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 373663,
+    "name": "Winterspell \"Frosty $500\" Tournament (Core Constructed)",
+    "date": "2026-03-14T16:00:00+00:00",
+    "store_name": "Gamezenter",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      570814,
+      570815,
+      570816,
+      570817,
+      570818,
+      570819,
+      573769,
+      573770,
+      573771
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 424621,
+    "name": "Disney Lorcana Draft",
+    "date": "2026-03-14T18:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      571868,
+      571869,
+      571870,
+      571871,
+      571872
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 445309,
+    "name": "Lorcana Tuesday Night Multiplayer",
+    "date": "2026-03-18T00:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      583038
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 459875,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-03-18T23:45:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      586138,
+      586139,
+      586140
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 461592,
+    "name": "Lorcana",
+    "date": "2026-03-19T23:30:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      589439,
+      589440,
+      589441
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 406949,
+    "name": "Weekly Lorcana March 20th",
+    "date": "2026-03-20T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      592897,
+      592898,
+      592899
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292415,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-03-20T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      593223,
+      593224,
+      593225
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 463048,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2026-03-21T00:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      593302,
+      593303,
+      593304
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 460046,
+    "name": "Scrooge Chaos Sealed - Sunday",
+    "date": "2026-03-22T17:00:00+00:00",
+    "store_name": "Issues Needed Comics",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      602144,
+      602145,
+      602146,
+      602147
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 430600,
+    "name": "Lorcana Core Tournament",
+    "date": "2026-03-24T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      608141,
+      608142,
+      608143
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 445313,
+    "name": "Lorcana Tuesday Night Multiplayer",
+    "date": "2026-03-25T00:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      608782
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 292418,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-03-27T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      617665,
+      617666,
+      617667
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 461445,
+    "name": "Disney Lorcana Draft",
+    "date": "2026-03-28T18:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      621768,
+      621769,
+      621770,
+      621771,
+      621772
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 445315,
+    "name": "Lorcana Tuesday Night Multiplayer",
+    "date": "2026-04-01T00:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      631841
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 470146,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-04-01T23:40:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      611141,
+      611142,
+      611143
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 480964,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-04-01T23:40:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      634647,
+      634648,
+      634649
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 461175,
+    "name": "LCN Weekly Constructed",
+    "date": "2026-04-02T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      634709,
+      634710,
+      634711
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 464286,
+    "name": "Friday Evening Weekly League Play",
+    "date": "2026-04-03T23:00:00+00:00",
+    "store_name": "VB Games and More",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      640695,
+      640696,
+      640697
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 477437,
+    "name": "Weekly Lorcana April 3rd",
+    "date": "2026-04-03T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      640605,
+      640606,
+      640607
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 483800,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2026-04-03T23:30:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      640844,
+      640845,
+      640846
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 392134,
+    "name": "Saturday Morning Winterspell - Set Championship",
+    "date": "2026-04-04T16:00:00+00:00",
+    "store_name": "Dreamers Vault Games (St Louis Park)",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      645282,
+      645283,
+      645284,
+      645285,
+      647706
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 445602,
+    "name": "Saturday Morning Core Constructed 1130AM",
+    "date": "2026-04-04T16:30:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      645776,
+      645777,
+      645778
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 475493,
+    "name": "Saturday Afternoon Winterspell - Set Championship",
+    "date": "2026-04-04T19:00:00+00:00",
+    "store_name": "SLIVER KING GAMES",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      647136,
+      647137,
+      647138,
+      647139,
+      647140,
+      649299,
+      649300,
+      649301
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 485265,
+    "name": "Solz Lorcana: Winterspell - Set Championship",
+    "date": "2026-04-05T14:00:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      650750,
+      650751,
+      650752
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 413353,
+    "name": "Sunday Evening Winterspell - Set Championship",
+    "date": "2026-04-05T20:00:00+00:00",
+    "store_name": "Bunker Gaming",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      651996,
+      651997,
+      651998,
+      651999,
+      652511,
+      652512
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 480232,
+    "name": "Lorcana Core Tournament",
+    "date": "2026-04-07T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      656155,
+      656156,
+      656157
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 489981,
+    "name": "Solz - Disney: Lorcana Weekly Local",
+    "date": "2026-04-08T23:30:00+00:00",
+    "store_name": "Solz Gaming and Collectibles LLC",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      659025,
+      659026,
+      659027
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 461176,
+    "name": "LCN Weekly Constructed",
+    "date": "2026-04-09T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      659169,
+      659170,
+      659171
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 477448,
+    "name": "Weekly Lorcana April 10th",
+    "date": "2026-04-10T23:00:00+00:00",
+    "store_name": "Lewis Game Shop Monticello",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      665327,
+      665328,
+      665329
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 492914,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "date": "2026-04-10T23:10:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      665468,
+      665469,
+      665470
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 490219,
+    "name": "Friday Night Lorcana w/Krakenhits",
+    "date": "2026-04-10T23:30:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      665743,
+      665744,
+      665745
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 445603,
+    "name": "Saturday Morning Core Constructed 1130AM",
+    "date": "2026-04-11T16:30:00+00:00",
+    "store_name": "Gamers Row llc",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      671401,
+      671402,
+      671403
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 438461,
+    "name": "Winterspell Set Championship w/Krakenhits",
+    "date": "2026-04-11T17:00:00+00:00",
+    "store_name": "Krakenhits",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      671826,
+      671827,
+      671828,
+      671829,
+      674255,
+      674256
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 407793,
+    "name": "Saturday Afternoon Winterspell - Set Championship",
+    "date": "2026-04-11T17:00:00+00:00",
+    "store_name": "Sneak Attack's Games",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      671882,
+      671883,
+      671884,
+      671885,
+      674968,
+      674969
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 388757,
+    "name": "Lorcana Winterspell Set Championship",
+    "date": "2026-04-11T18:00:00+00:00",
+    "store_name": "Atlantis Hobby",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      672660,
+      672661,
+      672662,
+      672663,
+      672664,
+      675234,
+      675235,
+      675236
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 491155,
+    "name": "Lorcana Chaos Draft!",
+    "date": "2026-04-11T18:00:00+00:00",
+    "store_name": "Games by James in the Ridgedale Center",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      672705,
+      672706,
+      672707,
+      672708,
+      672709
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 390797,
+    "name": "Sunday Afternoon Winterspell - Set Championship",
+    "date": "2026-04-12T16:00:00+00:00",
+    "store_name": "2 Bros & A Box",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      679053,
+      679054,
+      679055,
+      679056,
+      681006,
+      681007
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 392174,
+    "name": "Sunday Afternoon Winterspell - Set Championship",
+    "date": "2026-04-12T18:00:00+00:00",
+    "store_name": "Dreamers Vault Games Champlin",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      680274,
+      680275,
+      680276,
+      680277,
+      681925,
+      681926
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 405818,
+    "name": "Roch Coulee Winterspell Set Champs",
+    "date": "2026-04-12T18:00:00+00:00",
+    "store_name": "Coulee Cards & Gaming Rochester",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      680312,
+      680313,
+      680314,
+      680315,
+      681826,
+      681827
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 480234,
+    "name": "Lorcana Core Tournament",
+    "date": "2026-04-14T23:00:00+00:00",
+    "store_name": "The Gamers Den",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      685808,
+      685809,
+      685810
+    ],
+    "rounds_fetched": true
+  },
+  {
+    "event_id": 461177,
+    "name": "LCN Weekly Constructed",
+    "date": "2026-04-16T00:00:00+00:00",
+    "store_name": "Table Top Tournaments",
+    "store_state": "MN",
+    "status": "COMPLETE",
+    "round_ids": [
+      688621,
+      688622,
+      688623
+    ],
+    "rounds_fetched": true
+  }
+]

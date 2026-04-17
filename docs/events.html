@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events — MN Lorcana Leaderboard</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .filter-bar {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+        }
+        .filter-bar input[type="search"] {
+            max-width: 280px;
+            margin-bottom: 0;
+        }
+        .filter-bar label {
+            white-space: nowrap;
+            margin-bottom: 0;
+        }
+        .sc-badge {
+            display: inline-block;
+            font-size: 0.65rem;
+            font-weight: bold;
+            padding: 0.1rem 0.35rem;
+            border-radius: 3px;
+            background: var(--lorcana-gold);
+            color: #000;
+            vertical-align: middle;
+            margin-left: 0.3rem;
+            letter-spacing: 0.03em;
+        }
+        #event-stats {
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+        td.sc-col { width: 3rem; text-align: center; }
+    </style>
+</head>
+<body>
+    <main class="container">
+        <header>
+            <nav>
+                <a href="index.html" class="outline secondary" role="button">&larr; Leaderboard</a>
+            </nav>
+            <h1>MN Lorcana Events</h1>
+            <p id="subtitle">All tournaments used in the leaderboard</p>
+        </header>
+
+        <div class="filter-bar">
+            <input type="search" id="search" placeholder="Search events or stores..." aria-label="Search">
+            <label>
+                <input type="checkbox" id="filter-sc" role="switch">
+                Set Champs only
+            </label>
+        </div>
+
+        <div id="event-stats"></div>
+
+        <figure>
+            <table id="events-table" role="grid">
+                <thead>
+                    <tr>
+                        <th data-sort="date" class="sortable active desc">Date</th>
+                        <th data-sort="name" class="sortable">Event</th>
+                        <th data-sort="store" class="sortable">Store</th>
+                        <th data-sort="players" class="sortable">Players</th>
+                        <th data-sort="matches" class="sortable">Matches</th>
+                        <th class="sc-col">SC</th>
+                    </tr>
+                </thead>
+                <tbody id="events-body">
+                    <tr><td colspan="6">Loading...</td></tr>
+                </tbody>
+            </table>
+        </figure>
+
+        <footer>
+            <p><small>Data from <a href="https://tcg.ravensburgerplay.com" target="_blank">Ravensburger PlayHub</a> &middot; SC = Official Set Championship</small></p>
+        </footer>
+    </main>
+
+    <script>
+        let allEvents = [];
+        let currentSort = { key: "date", dir: "desc" };
+        let filterSC = false;
+
+        async function load() {
+            try {
+                const resp = await fetch("data/events.json");
+                allEvents = await resp.json();
+                renderStats();
+                renderTable();
+                setupControls();
+            } catch (e) {
+                document.getElementById("events-body").innerHTML =
+                    '<tr><td colspan="6">Failed to load events.</td></tr>';
+            }
+        }
+
+        function renderStats() {
+            const total = allEvents.length;
+            const sc = allEvents.filter(e => e.is_set_champ).length;
+            const totalMatches = allEvents.reduce((s, e) => s + e.matches, 0);
+            document.getElementById("event-stats").innerHTML = `
+                <span><strong>${total}</strong> total events</span>
+                <span><strong>${sc}</strong> set championships</span>
+                <span><strong>${total - sc}</strong> other events</span>
+                <span><strong>${totalMatches}</strong> total matches</span>
+            `;
+        }
+
+        function renderTable() {
+            const search = document.getElementById("search").value.toLowerCase();
+            let events = [...allEvents];
+
+            if (filterSC) events = events.filter(e => e.is_set_champ);
+            if (search) events = events.filter(e =>
+                e.name.toLowerCase().includes(search) ||
+                e.store.toLowerCase().includes(search)
+            );
+
+            events = sort(events, currentSort.key, currentSort.dir);
+
+            const tbody = document.getElementById("events-body");
+            if (!events.length) {
+                tbody.innerHTML = '<tr><td colspan="6">No events found.</td></tr>';
+                return;
+            }
+
+            tbody.innerHTML = events.map(e => {
+                const dateStr = e.date
+                    ? new Date(e.date + "T00:00:00").toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" })
+                    : "—";
+                const scCell = e.is_set_champ
+                    ? '<span class="sc-badge">SC</span>'
+                    : '';
+                return `<tr>
+                    <td>${dateStr}</td>
+                    <td>${esc(e.name)}</td>
+                    <td>${esc(e.store)}</td>
+                    <td>${e.players}</td>
+                    <td>${e.matches}</td>
+                    <td class="sc-col">${scCell}</td>
+                </tr>`;
+            }).join("");
+        }
+
+        function sort(arr, key, dir) {
+            const mult = dir === "asc" ? 1 : -1;
+            return [...arr].sort((a, b) => {
+                const va = a[key] ?? "", vb = b[key] ?? "";
+                if (typeof va === "number") return mult * (va - vb);
+                return mult * String(va).localeCompare(String(vb));
+            });
+        }
+
+        function esc(str) {
+            const d = document.createElement("div");
+            d.textContent = str;
+            return d.innerHTML;
+        }
+
+        function setupControls() {
+            document.getElementById("search").addEventListener("input", renderTable);
+            document.getElementById("filter-sc").addEventListener("change", e => {
+                filterSC = e.target.checked;
+                renderTable();
+            });
+
+            document.querySelectorAll("th.sortable").forEach(th => {
+                th.addEventListener("click", () => {
+                    const key = th.dataset.sort;
+                    if (currentSort.key === key) {
+                        currentSort.dir = currentSort.dir === "asc" ? "desc" : "asc";
+                    } else {
+                        currentSort = { key, dir: key === "name" || key === "store" ? "asc" : "desc" };
+                    }
+                    document.querySelectorAll("th.sortable").forEach(h => h.classList.remove("active", "asc", "desc"));
+                    th.classList.add("active", currentSort.dir);
+                    renderTable();
+                });
+            });
+        }
+
+        load();
+    </script>
+</body>
+</html>

@@ -1,0 +1,224 @@
+/* MN Lorcana Leaderboard styles */
+
+:root {
+    --lorcana-gold: #c9a84c;
+    --lorcana-purple: #6b3fa0;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+header h1 {
+    color: var(--lorcana-gold);
+    margin-bottom: 0.25rem;
+}
+
+#subtitle {
+    opacity: 0.7;
+    margin-top: 0;
+}
+
+.controls {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.controls input[type="search"] {
+    max-width: 300px;
+    margin-bottom: 0;
+}
+
+.controls label {
+    white-space: nowrap;
+    margin-bottom: 0;
+}
+
+.stats-bar {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+/* Table */
+table {
+    width: 100%;
+}
+
+th.sortable {
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+}
+
+th.sortable:hover {
+    color: var(--lorcana-gold);
+}
+
+th.sortable.active {
+    color: var(--lorcana-gold);
+}
+
+th.sortable::after {
+    content: " ↕";
+    opacity: 0.3;
+}
+
+th.sortable.asc::after {
+    content: " ↑";
+    opacity: 1;
+}
+
+th.sortable.desc::after {
+    content: " ↓";
+    opacity: 1;
+}
+
+/* Rank column */
+td:first-child {
+    font-weight: bold;
+    opacity: 0.6;
+    width: 3rem;
+}
+
+/* Player name clickable */
+.player-name {
+    cursor: pointer;
+    color: var(--lorcana-gold);
+    text-decoration: none;
+}
+
+.player-name:hover {
+    text-decoration: underline;
+}
+
+/* Streak styling */
+.streak-win {
+    color: #4caf50;
+    font-weight: bold;
+}
+
+.streak-loss {
+    color: #f44336;
+}
+
+/* Top 3 highlight */
+tr.rank-1 td:first-child,
+tr.rank-2 td:first-child,
+tr.rank-3 td:first-child {
+    font-size: 1.1rem;
+}
+
+tr.rank-1 td:first-child::before { content: "🥇 "; }
+tr.rank-2 td:first-child::before { content: "🥈 "; }
+tr.rank-3 td:first-child::before { content: "🥉 "; }
+
+/* Player detail panel */
+.player-detail {
+    background: var(--pico-card-background-color);
+    border: 1px solid var(--pico-muted-border-color);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.player-detail.hidden {
+    display: none;
+}
+
+.detail-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.stat-card {
+    background: var(--pico-background-color);
+    border-radius: 6px;
+    padding: 0.75rem;
+    text-align: center;
+}
+
+.stat-card .value {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--lorcana-gold);
+}
+
+.stat-card .label {
+    font-size: 0.8rem;
+    opacity: 0.7;
+}
+
+#close-detail {
+    float: right;
+    padding: 0.25rem 0.75rem;
+}
+
+#elo-chart {
+    width: 100%;
+    max-width: 600px;
+    height: 200px;
+    margin-top: 1rem;
+}
+
+/* Mode toggle button */
+#toggle-mode {
+    white-space: nowrap;
+    padding: 0.4rem 0.9rem;
+    font-size: 0.9rem;
+    margin-bottom: 0;
+}
+
+#toggle-mode.mode-all {
+    border-color: var(--pico-muted-border-color);
+    color: var(--pico-muted-color);
+}
+
+#toggle-mode.mode-sc {
+    border-color: var(--lorcana-gold);
+    color: var(--lorcana-gold);
+}
+
+/* Set champ badge in tournaments table */
+.sc-badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: bold;
+    padding: 0.1rem 0.35rem;
+    border-radius: 3px;
+    background: var(--lorcana-gold);
+    color: #000;
+    vertical-align: middle;
+    margin-left: 0.3rem;
+    letter-spacing: 0.03em;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .controls input[type="search"] {
+        max-width: none;
+    }
+
+    table th:nth-child(3),
+    table td:nth-child(3),
+    table th:nth-child(7),
+    table td:nth-child(7),
+    table th:nth-child(8),
+    table td:nth-child(8) {
+        display: none;
+    }
+}

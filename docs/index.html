@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MN Lorcana Leaderboard</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="container">
+        <header>
+            <nav style="text-align:right;margin-bottom:0.5rem;">
+                <a href="events.html" role="button" class="outline secondary">Events</a>
+            </nav>
+            <h1>MN Lorcana Leaderboard</h1>
+            <p id="subtitle">ELO rankings for Minnesota Lorcana players</p>
+        </header>
+
+        <div class="controls">
+            <input type="search" id="search" placeholder="Search players..." aria-label="Search players">
+            <button id="toggle-mode" class="mode-all outline">All Events</button>
+            <label>
+                <input type="checkbox" id="toggle-unranked" role="switch">
+                Show unranked (fewer than <span id="min-matches">5</span> matches)
+            </label>
+        </div>
+
+        <div id="stats-bar" class="stats-bar"></div>
+
+        <figure>
+            <table id="leaderboard" role="grid">
+                <thead>
+                    <tr>
+                        <th data-sort="rank" class="sortable active">#</th>
+                        <th data-sort="name" class="sortable">Player</th>
+                        <th data-sort="username" class="sortable">Username</th>
+                        <th data-sort="elo" class="sortable">ELO</th>
+                        <th data-sort="record" class="sortable">Record</th>
+                        <th data-sort="win_rate" class="sortable">Win%</th>
+                        <th data-sort="current_streak" class="sortable">Streak</th>
+                        <th data-sort="total_events" class="sortable">Events</th>
+                    </tr>
+                </thead>
+                <tbody id="leaderboard-body">
+                    <tr><td colspan="7">Loading...</td></tr>
+                </tbody>
+            </table>
+        </figure>
+
+        <div id="player-detail" class="player-detail hidden">
+            <button id="close-detail" class="outline secondary">&times; Close</button>
+            <h2 id="detail-name"></h2>
+            <div id="detail-stats" class="detail-stats"></div>
+            <canvas id="elo-chart" width="600" height="200"></canvas>
+            <div id="detail-events"></div>
+        </div>
+
+        <footer>
+            <p>
+                <small>
+                    Last updated: <span id="last-updated">—</span> &middot;
+                    <span id="total-players">0</span> players &middot;
+                    <span id="total-matches">0</span> matches &middot;
+                    Data from <a href="https://tcg.ravensburgerplay.com" target="_blank">Ravensburger PlayHub</a>
+                </small>
+            </p>
+        </footer>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

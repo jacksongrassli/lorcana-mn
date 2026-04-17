@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "leaderboard",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "docs", "-p", "8080"],
+      "port": 8080
+    }
+  ]
+}
