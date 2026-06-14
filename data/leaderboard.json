@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T10:25:42.986203Z",
+  "last_updated": "2026-06-14T10:48:41.578755Z",
   "total_players": 533,
   "ranked_players": 356,
   "sc_ranked_players": 221,
@@ -2573,7 +2573,7 @@
     {
       "player_id": 16374,
       "name": "Colt M",
-      "username": "Colt",
+      "username": "colt",
       "last_played": "2026-04-11T17:00:00+00:00",
       "stores_played_at": [
         "Lewis Game Shop Monticello",
@@ -37228,7 +37228,7 @@
     {
       "player_id": 20338,
       "name": "Benjamin G",
-      "username": "Diablo",
+      "username": "Ben Gibson",
       "last_played": "2025-08-02T17:00:00+00:00",
       "stores_played_at": [
         "Jimmy Jams"
